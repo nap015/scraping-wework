@@ -4,6 +4,6 @@ Web scraping freelance project, script scrapes inventory space for all WeWork bu
 Current script not optimized for parallel scraping but will update in the future.
 
 Result .csv file contains the following features in order:
-State, City, Building Address, Inventory Code, URL, Max Capacity (per each inventory space)
+State, City, Building Address, Inventory Code, Max Capacity (per each inventory space), reservation URL
 
 .py file contains the runnable Python script, .ipynb file for development and preview.
