@@ -1,0 +1,595 @@
+,state,city,building,space,capacity,url
+0,NY,New York City,980 6th Avenue,936b4506-e681-4af1-91b9-c359270fdf60,2,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/936b4506-e681-4af1-91b9-c359270fdf60
+1,NY,New York City,980 6th Avenue,a49501fb-e2f9-403d-8479-965dd5def54e,2,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/a49501fb-e2f9-403d-8479-965dd5def54e
+2,NY,New York City,980 6th Avenue,6cf8b30c-9775-4707-9ec2-72e866699d30,7,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/6cf8b30c-9775-4707-9ec2-72e866699d30
+3,NY,New York City,980 6th Avenue,e7991168-4adf-4f99-84cb-284b5b95c547,7,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/e7991168-4adf-4f99-84cb-284b5b95c547
+4,NY,New York City,980 6th Avenue,6eec4f73-27a6-46c3-83fa-41a7d495009c,10,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/6eec4f73-27a6-46c3-83fa-41a7d495009c
+5,NY,New York City,980 6th Avenue,c468abe5-79af-414e-ad21-fd0d3db79234,8,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/c468abe5-79af-414e-ad21-fd0d3db79234
+6,NY,New York City,980 6th Avenue,adda2473-73fd-47a6-b0c9-5858a20bf14f,8,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/adda2473-73fd-47a6-b0c9-5858a20bf14f
+7,NY,New York City,980 6th Avenue,ae58d870-4905-4f52-8b88-e8f457e46701,14,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/ae58d870-4905-4f52-8b88-e8f457e46701
+8,NY,New York City,980 6th Avenue,f6111953-61a3-46cf-aca4-637c0e563321,20,https://www.wework.com/buildings/980-6th-avenue--new-york-city--NY/reserve/f6111953-61a3-46cf-aca4-637c0e563321
+9,NY,New York City,16 E 34th St,9375696c-f573-460d-994f-ef60259bdc01,5,https://www.wework.com/buildings/16-e-34th-st--new-york-city--NY/reserve/9375696c-f573-460d-994f-ef60259bdc01
+10,NY,New York City,16 E 34th St,87fd6446-f90e-4fb6-950f-12b2db0d311b,6,https://www.wework.com/buildings/16-e-34th-st--new-york-city--NY/reserve/87fd6446-f90e-4fb6-950f-12b2db0d311b
+11,NY,New York City,16 E 34th St,ac5c1a72-19d6-4e61-8af9-95a3349fb56a,11,https://www.wework.com/buildings/16-e-34th-st--new-york-city--NY/reserve/ac5c1a72-19d6-4e61-8af9-95a3349fb56a
+12,NY,New York City,Gotham Center,d78e26fe-ff2e-4f70-b955-6f426466e74a,1,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/d78e26fe-ff2e-4f70-b955-6f426466e74a
+13,NY,New York City,Gotham Center,fd2dfa32-d543-43b8-b783-b9c13ce173c9,2,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/fd2dfa32-d543-43b8-b783-b9c13ce173c9
+14,NY,New York City,Gotham Center,ef5c1e91-a92d-40e5-9377-23ce1b1ab52d,2,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/ef5c1e91-a92d-40e5-9377-23ce1b1ab52d
+15,NY,New York City,Gotham Center,d81b6807-3496-4c39-ac70-f74dc324df53,4,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/d81b6807-3496-4c39-ac70-f74dc324df53
+16,NY,New York City,Gotham Center,ad3f4092-fc9b-4f82-b3e1-9d715c7a5965,3,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/ad3f4092-fc9b-4f82-b3e1-9d715c7a5965
+17,NY,New York City,Gotham Center,dfbd24e5-0920-4740-b447-9d8a9eff9b7d,4,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/dfbd24e5-0920-4740-b447-9d8a9eff9b7d
+18,NY,New York City,Gotham Center,e0c794f0-3bf8-4bfb-8df7-5f9e13feecc5,5,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/e0c794f0-3bf8-4bfb-8df7-5f9e13feecc5
+19,NY,New York City,Gotham Center,f9a73db5-0f27-4a5b-aa3a-28ec9af8f424,5,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/f9a73db5-0f27-4a5b-aa3a-28ec9af8f424
+20,NY,New York City,Gotham Center,88b87555-2af1-4fef-9903-b7e0a2c0d66e,6,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/88b87555-2af1-4fef-9903-b7e0a2c0d66e
+21,NY,New York City,Gotham Center,f4b6e410-4885-4afb-863c-4e171d8748da,6,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/f4b6e410-4885-4afb-863c-4e171d8748da
+22,NY,New York City,Gotham Center,2348488e-bffc-4835-99d7-2602b3a6c5a7,7,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/2348488e-bffc-4835-99d7-2602b3a6c5a7
+23,NY,New York City,Gotham Center,6df3e9a6-cdfe-4843-9afb-e073f8919439,7,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/6df3e9a6-cdfe-4843-9afb-e073f8919439
+24,NY,New York City,Gotham Center,6e968c13-811b-42c3-8749-d4fe9d7bf28f,9,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/6e968c13-811b-42c3-8749-d4fe9d7bf28f
+25,NY,New York City,Gotham Center,fa22133e-ed00-4865-83c5-c398c7f2452d,10,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/fa22133e-ed00-4865-83c5-c398c7f2452d
+26,NY,New York City,Gotham Center,d9ff467f-4f79-40fa-9c0a-be8cd92f7eb7,9,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/d9ff467f-4f79-40fa-9c0a-be8cd92f7eb7
+27,NY,New York City,Gotham Center,3fd18b66-9f0a-465a-a51c-9a7bdf90fa05,13,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/3fd18b66-9f0a-465a-a51c-9a7bdf90fa05
+28,NY,New York City,Gotham Center,662c35d1-360d-4727-9c77-267ca8f9138f,18,https://www.wework.com/buildings/gotham-center--new-york-city--NY/reserve/662c35d1-360d-4727-9c77-267ca8f9138f
+29,NY,New York City,8 W 126th St,5149d1b7-25c1-410d-a0ba-f551af1f6624,1,https://www.wework.com/buildings/8-w-126th-st--new-york-city--NY/reserve/5149d1b7-25c1-410d-a0ba-f551af1f6624
+30,NY,New York City,8 W 126th St,f7e04ece-9fd3-4de0-9370-70e72b1fc470,1,https://www.wework.com/buildings/8-w-126th-st--new-york-city--NY/reserve/f7e04ece-9fd3-4de0-9370-70e72b1fc470
+31,NY,New York City,8 W 126th St,ec4b6618-13eb-4928-ae6c-54f47d2b5b98,4,https://www.wework.com/buildings/8-w-126th-st--new-york-city--NY/reserve/ec4b6618-13eb-4928-ae6c-54f47d2b5b98
+32,NY,New York City,8 W 126th St,1a03c73d-6f71-4426-b5da-63634ef99575,5,https://www.wework.com/buildings/8-w-126th-st--new-york-city--NY/reserve/1a03c73d-6f71-4426-b5da-63634ef99575
+33,NY,New York City,8 W 126th St,c36dde44-b92e-40ce-b7cc-d9f55a6f29d0,6,https://www.wework.com/buildings/8-w-126th-st--new-york-city--NY/reserve/c36dde44-b92e-40ce-b7cc-d9f55a6f29d0
+34,NY,New York City,8 W 126th St,302d607a-17c5-4d5a-a7ba-60e5e7de324f,7,https://www.wework.com/buildings/8-w-126th-st--new-york-city--NY/reserve/302d607a-17c5-4d5a-a7ba-60e5e7de324f
+35,NY,New York City,368 9th Ave,9bc4d713-9de3-4f8f-b6de-32c4797d5efa,1,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/9bc4d713-9de3-4f8f-b6de-32c4797d5efa
+36,NY,New York City,368 9th Ave,fdf441c8-be9f-49f2-a6f4-b5d816e728f4,2,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/fdf441c8-be9f-49f2-a6f4-b5d816e728f4
+37,NY,New York City,368 9th Ave,ef9b4d6d-1d1e-46d3-8828-297e047b1e89,2,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/ef9b4d6d-1d1e-46d3-8828-297e047b1e89
+38,NY,New York City,368 9th Ave,ffbfa15d-9a54-43e2-a62a-ed5294e098ff,3,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/ffbfa15d-9a54-43e2-a62a-ed5294e098ff
+39,NY,New York City,368 9th Ave,ebd8def1-c72a-4463-8142-6a316ba858d2,4,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/ebd8def1-c72a-4463-8142-6a316ba858d2
+40,NY,New York City,368 9th Ave,d09670dc-15a2-49ea-abd1-01b652082815,5,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/d09670dc-15a2-49ea-abd1-01b652082815
+41,NY,New York City,368 9th Ave,daebd2ad-1377-4d02-b627-60f51df5546f,6,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/daebd2ad-1377-4d02-b627-60f51df5546f
+42,NY,New York City,368 9th Ave,72ab6163-9c23-4b80-8950-2e09f6caece1,8,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/72ab6163-9c23-4b80-8950-2e09f6caece1
+43,NY,New York City,368 9th Ave,9b744e89-8490-4e6f-a836-a11ff43c9e23,14,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/9b744e89-8490-4e6f-a836-a11ff43c9e23
+44,NY,New York City,368 9th Ave,cc8dfd82-de5c-40b1-9c17-e8968597de30,14,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/cc8dfd82-de5c-40b1-9c17-e8968597de30
+45,NY,New York City,368 9th Ave,9ac39d89-e806-4ec8-b8ac-67315bca9b5a,16,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/9ac39d89-e806-4ec8-b8ac-67315bca9b5a
+46,NY,New York City,368 9th Ave,7b85ae52-301b-43c4-a86c-ebc306a89f50,18,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/7b85ae52-301b-43c4-a86c-ebc306a89f50
+47,NY,New York City,368 9th Ave,d70e1f61-c306-4d11-9385-6284cb07f743,17,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/d70e1f61-c306-4d11-9385-6284cb07f743
+48,NY,New York City,368 9th Ave,f7d02483-b163-4993-a49b-5f820a515fab,20,https://www.wework.com/buildings/368-9th-ave--new-york-city--NY/reserve/f7d02483-b163-4993-a49b-5f820a515fab
+49,NY,New York City,880 3rd Avenue,7f42e00d-f653-4c52-9fea-2fd2bf76e830,2,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/7f42e00d-f653-4c52-9fea-2fd2bf76e830
+50,NY,New York City,880 3rd Avenue,b281c4c6-e4cd-4a96-a87c-2aa3a9c5c6e8,1,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/b281c4c6-e4cd-4a96-a87c-2aa3a9c5c6e8
+51,NY,New York City,880 3rd Avenue,e56655f6-5d57-423f-96b4-b6cc24bfe9f1,3,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/e56655f6-5d57-423f-96b4-b6cc24bfe9f1
+52,NY,New York City,880 3rd Avenue,efc72b77-be48-413e-9174-a5736ddec924,4,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/efc72b77-be48-413e-9174-a5736ddec924
+53,NY,New York City,880 3rd Avenue,5e0ba7e0-738e-47ad-8817-22b3df555613,5,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/5e0ba7e0-738e-47ad-8817-22b3df555613
+54,NY,New York City,880 3rd Avenue,5ad06cfb-94af-4faa-a62f-e817dff64650,6,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/5ad06cfb-94af-4faa-a62f-e817dff64650
+55,NY,New York City,880 3rd Avenue,626385c7-7d66-4b8d-a75e-bdce21169f8a,8,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/626385c7-7d66-4b8d-a75e-bdce21169f8a
+56,NY,New York City,880 3rd Avenue,1d31cf92-081c-44ca-9a24-85c542232cbf,6,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/1d31cf92-081c-44ca-9a24-85c542232cbf
+57,NY,New York City,880 3rd Avenue,877c03ab-4af1-4002-947c-1a65ec6ebb74,14,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/877c03ab-4af1-4002-947c-1a65ec6ebb74
+58,NY,New York City,880 3rd Avenue,436162d5-d639-4ad4-bd21-8b27321a0dea,19,https://www.wework.com/buildings/880-3rd-avenue--new-york-city--NY/reserve/436162d5-d639-4ad4-bd21-8b27321a0dea
+59,NY,New York City,450 Lexington Ave,219b0af0-4ee0-4a05-a35f-7dee9b154cbe,1,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/219b0af0-4ee0-4a05-a35f-7dee9b154cbe
+60,NY,New York City,450 Lexington Ave,cde59baa-383d-4704-be7c-fa715a34a87a,2,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/cde59baa-383d-4704-be7c-fa715a34a87a
+61,NY,New York City,450 Lexington Ave,ca9c951d-52d6-45f6-aa98-b8acbf7c0e52,1,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/ca9c951d-52d6-45f6-aa98-b8acbf7c0e52
+62,NY,New York City,450 Lexington Ave,ec03ac29-33d5-403f-8991-13395d0550cf,3,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/ec03ac29-33d5-403f-8991-13395d0550cf
+63,NY,New York City,450 Lexington Ave,93b41fd0-879f-499c-9438-aefcd6e16b31,4,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/93b41fd0-879f-499c-9438-aefcd6e16b31
+64,NY,New York City,450 Lexington Ave,f135208b-c40c-4eaa-8fab-f965a9e1c2dd,5,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/f135208b-c40c-4eaa-8fab-f965a9e1c2dd
+65,NY,New York City,450 Lexington Ave,ed453b64-2d50-4dec-8573-88fa63dc4dec,6,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/ed453b64-2d50-4dec-8573-88fa63dc4dec
+66,NY,New York City,450 Lexington Ave,445217b3-c2bd-4a4e-99c3-55640e79383b,7,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/445217b3-c2bd-4a4e-99c3-55640e79383b
+67,NY,New York City,450 Lexington Ave,267f8148-262c-489b-bfab-fa0db8065292,8,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/267f8148-262c-489b-bfab-fa0db8065292
+68,NY,New York City,450 Lexington Ave,49587ec6-e54b-4458-8921-b200ec4decec,8,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/49587ec6-e54b-4458-8921-b200ec4decec
+69,NY,New York City,450 Lexington Ave,c1739cd5-dd73-40ec-845c-7cf4b058bda3,10,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/c1739cd5-dd73-40ec-845c-7cf4b058bda3
+70,NY,New York City,450 Lexington Ave,19f8028f-8b55-4389-9d26-512532e38cb1,10,https://www.wework.com/buildings/450-lexington-ave--new-york-city--NY/reserve/19f8028f-8b55-4389-9d26-512532e38cb1
+71,NY,New York City,199 Water St,f79d4c10-d060-42b2-9f8f-d756462f4ddb,1,https://www.wework.com/buildings/199-water-st--new-york-city--NY/reserve/f79d4c10-d060-42b2-9f8f-d756462f4ddb
+72,NY,New York City,199 Water St,9edebc7c-3665-4108-a2c9-2b9f1b16a62b,3,https://www.wework.com/buildings/199-water-st--new-york-city--NY/reserve/9edebc7c-3665-4108-a2c9-2b9f1b16a62b
+73,NY,New York City,160 Varick Street,f8a540a1-9142-4c54-9736-736043851b06,2,https://www.wework.com/buildings/160-varick-street--new-york-city--NY/reserve/f8a540a1-9142-4c54-9736-736043851b06
+74,NY,New York City,160 Varick Street,f8fc30e8-4db4-4039-82b8-45c915e040e9,1,https://www.wework.com/buildings/160-varick-street--new-york-city--NY/reserve/f8fc30e8-4db4-4039-82b8-45c915e040e9
+75,NY,New York City,160 Varick Street,f35ea4f7-9f24-45c7-9cb2-6c10f9c10f67,4,https://www.wework.com/buildings/160-varick-street--new-york-city--NY/reserve/f35ea4f7-9f24-45c7-9cb2-6c10f9c10f67
+76,NY,New York City,160 Varick Street,cae51971-ff20-4289-bd9e-4a8038ad333e,16,https://www.wework.com/buildings/160-varick-street--new-york-city--NY/reserve/cae51971-ff20-4289-bd9e-4a8038ad333e
+77,NY,New York City,148 Lafayette St,89930fba-8e05-4642-abc1-ebc1c441319a,2,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/89930fba-8e05-4642-abc1-ebc1c441319a
+78,NY,New York City,148 Lafayette St,303fa7b5-8213-4bfd-b535-3c8e49b3d1d8,4,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/303fa7b5-8213-4bfd-b535-3c8e49b3d1d8
+79,NY,New York City,148 Lafayette St,defbb9b3-b15a-460a-a7a7-0906ed8fd82a,5,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/defbb9b3-b15a-460a-a7a7-0906ed8fd82a
+80,NY,New York City,148 Lafayette St,54b34501-d5f7-4fd9-ab0a-b54bae9aa4c4,6,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/54b34501-d5f7-4fd9-ab0a-b54bae9aa4c4
+81,NY,New York City,148 Lafayette St,447be637-c61c-465f-ab4b-d61b73bd852f,10,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/447be637-c61c-465f-ab4b-d61b73bd852f
+82,NY,New York City,148 Lafayette St,9057a702-b6e1-4871-8ab7-577ab4307a9c,9,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/9057a702-b6e1-4871-8ab7-577ab4307a9c
+83,NY,New York City,148 Lafayette St,e9786958-6060-43b1-ab97-aeb989d07f44,13,https://www.wework.com/buildings/148-lafayette-st--new-york-city--NY/reserve/e9786958-6060-43b1-ab97-aeb989d07f44
+84,NY,New York City,1450 Broadway,d9caf36d-b8b1-41ec-8fc0-1de7796f7bb8,1,https://www.wework.com/buildings/1450-broadway--new-york-city--NY/reserve/d9caf36d-b8b1-41ec-8fc0-1de7796f7bb8
+85,NY,New York City,1450 Broadway,ee05d51f-f320-4806-b916-0354444d3fc5,2,https://www.wework.com/buildings/1450-broadway--new-york-city--NY/reserve/ee05d51f-f320-4806-b916-0354444d3fc5
+86,NY,New York City,1450 Broadway,6f5b31ee-fdeb-4c0d-b407-3c66059aa27f,2,https://www.wework.com/buildings/1450-broadway--new-york-city--NY/reserve/6f5b31ee-fdeb-4c0d-b407-3c66059aa27f
+87,NY,New York City,1450 Broadway,0ff935f2-44a0-4691-886f-1763b04c9647,17,https://www.wework.com/buildings/1450-broadway--new-york-city--NY/reserve/0ff935f2-44a0-4691-886f-1763b04c9647
+88,NY,New York City,1450 Broadway,112653fc-7dfa-4229-b053-a0489450f63f,18,https://www.wework.com/buildings/1450-broadway--new-york-city--NY/reserve/112653fc-7dfa-4229-b053-a0489450f63f
+89,NY,New York City,575 Lexington Avenue,5d2e032b-f2f2-4580-9e54-d0411ab81837,2,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/5d2e032b-f2f2-4580-9e54-d0411ab81837
+90,NY,New York City,575 Lexington Avenue,c99b8c2e-a393-4652-9f34-ac584a745514,2,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/c99b8c2e-a393-4652-9f34-ac584a745514
+91,NY,New York City,575 Lexington Avenue,49ca257e-e33e-4a51-9d34-548eac70090f,3,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/49ca257e-e33e-4a51-9d34-548eac70090f
+92,NY,New York City,575 Lexington Avenue,5249ef80-b8f2-42a9-887a-261aa8f1b89a,4,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/5249ef80-b8f2-42a9-887a-261aa8f1b89a
+93,NY,New York City,575 Lexington Avenue,06ae9c24-6e0e-47c8-9f2a-34b7c7025bc2,3,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/06ae9c24-6e0e-47c8-9f2a-34b7c7025bc2
+94,NY,New York City,575 Lexington Avenue,d3307bac-85b6-473c-8261-923f9e65a61d,4,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/d3307bac-85b6-473c-8261-923f9e65a61d
+95,NY,New York City,575 Lexington Avenue,fc77f2f2-5695-4f1e-8849-26d653cea367,5,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/fc77f2f2-5695-4f1e-8849-26d653cea367
+96,NY,New York City,575 Lexington Avenue,4b5a7f4b-b0a8-4c65-95b2-ed71a7e302c3,6,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/4b5a7f4b-b0a8-4c65-95b2-ed71a7e302c3
+97,NY,New York City,575 Lexington Avenue,d90eeded-b24e-40e4-b845-df55f29c34d6,5,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/d90eeded-b24e-40e4-b845-df55f29c34d6
+98,NY,New York City,575 Lexington Avenue,f1ece4cf-ae7f-4ed4-96d0-3af401c6ff5a,6,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/f1ece4cf-ae7f-4ed4-96d0-3af401c6ff5a
+99,NY,New York City,575 Lexington Avenue,67e9e465-674b-42b1-b470-454ac42c068a,9,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/67e9e465-674b-42b1-b470-454ac42c068a
+100,NY,New York City,575 Lexington Avenue,bf0c9168-9f22-441c-b65d-cdd824cbe805,10,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/bf0c9168-9f22-441c-b65d-cdd824cbe805
+101,NY,New York City,575 Lexington Avenue,aeae695f-c8d1-403f-a83b-9c7b7b7eaf52,12,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/aeae695f-c8d1-403f-a83b-9c7b7b7eaf52
+102,NY,New York City,575 Lexington Avenue,4e79a149-230d-4b64-a906-a5fbe3261c1d,13,https://www.wework.com/buildings/575-lexington-avenue--new-york-city--NY/reserve/4e79a149-230d-4b64-a906-a5fbe3261c1d
+103,NY,New York City,511 W 25th St,ea83fb69-6aa0-45fd-ac0f-a1042d1e3731,2,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/ea83fb69-6aa0-45fd-ac0f-a1042d1e3731
+104,NY,New York City,511 W 25th St,9819f98f-ad1e-4340-b6cb-aa52c26bb5d7,1,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/9819f98f-ad1e-4340-b6cb-aa52c26bb5d7
+105,NY,New York City,511 W 25th St,fb25a986-0215-4da6-8155-db9c8c581761,3,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/fb25a986-0215-4da6-8155-db9c8c581761
+106,NY,New York City,511 W 25th St,e7532635-a726-46d5-bd26-88c8e049bd91,4,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/e7532635-a726-46d5-bd26-88c8e049bd91
+107,NY,New York City,511 W 25th St,f6f5367d-2f2a-4a04-a49b-520d43331ec2,6,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/f6f5367d-2f2a-4a04-a49b-520d43331ec2
+108,NY,New York City,511 W 25th St,33261f9a-e8eb-4ffd-bb78-b51fedba4128,6,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/33261f9a-e8eb-4ffd-bb78-b51fedba4128
+109,NY,New York City,511 W 25th St,f6f80578-dffe-4d6d-af6c-14e84de1281a,11,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/f6f80578-dffe-4d6d-af6c-14e84de1281a
+110,NY,New York City,511 W 25th St,30b9cf42-6220-4344-80ec-930ec73fb238,12,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/30b9cf42-6220-4344-80ec-930ec73fb238
+111,NY,New York City,511 W 25th St,3065b65a-e886-4957-aba3-6bfea74c2fe5,15,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/3065b65a-e886-4957-aba3-6bfea74c2fe5
+112,NY,New York City,511 W 25th St,29c7c2dd-6f89-4a59-9761-caea4dedc6df,15,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/29c7c2dd-6f89-4a59-9761-caea4dedc6df
+113,NY,New York City,511 W 25th St,94b5fd91-f81a-4138-8fef-06d3e2b8656a,15,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/94b5fd91-f81a-4138-8fef-06d3e2b8656a
+114,NY,New York City,511 W 25th St,edaeab45-e8e4-4939-91ed-d8541a14038e,17,https://www.wework.com/buildings/511-w-25th-st--new-york-city--NY/reserve/edaeab45-e8e4-4939-91ed-d8541a14038e
+115,NY,New York City,609 Greenwich Street,9a9bdb73-779e-4a4c-8a51-777f9bdbc4be,2,https://www.wework.com/buildings/609-greenwich-street--new-york-city--NY/reserve/9a9bdb73-779e-4a4c-8a51-777f9bdbc4be
+116,NY,New York City,609 Greenwich Street,fc6c98a3-3dd4-4dae-8279-4fd7265ac458,1,https://www.wework.com/buildings/609-greenwich-street--new-york-city--NY/reserve/fc6c98a3-3dd4-4dae-8279-4fd7265ac458
+117,NY,New York City,609 Greenwich Street,b602ab47-29e2-4501-af3d-bf93958b605e,4,https://www.wework.com/buildings/609-greenwich-street--new-york-city--NY/reserve/b602ab47-29e2-4501-af3d-bf93958b605e
+118,NY,New York City,609 Greenwich Street,c101cbd3-84df-4abe-bc08-56bd0c88fb6b,5,https://www.wework.com/buildings/609-greenwich-street--new-york-city--NY/reserve/c101cbd3-84df-4abe-bc08-56bd0c88fb6b
+119,NY,New York City,609 Greenwich Street,7e9334c8-3053-43be-bfcb-10b315e95529,6,https://www.wework.com/buildings/609-greenwich-street--new-york-city--NY/reserve/7e9334c8-3053-43be-bfcb-10b315e95529
+120,NY,New York City,609 Greenwich Street,ab44f7cb-37af-4880-9411-40223d92e060,6,https://www.wework.com/buildings/609-greenwich-street--new-york-city--NY/reserve/ab44f7cb-37af-4880-9411-40223d92e060
+121,NY,New York City,Dock 72 At The Brooklyn Navy Yard,d4da176d-923e-43b1-92b9-ee75ae34afc8,1,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/d4da176d-923e-43b1-92b9-ee75ae34afc8
+122,NY,New York City,Dock 72 At The Brooklyn Navy Yard,adea5a4b-8ddd-4994-8c80-9541c126438b,1,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/adea5a4b-8ddd-4994-8c80-9541c126438b
+123,NY,New York City,Dock 72 At The Brooklyn Navy Yard,f32259e1-58ef-4584-b909-64fb883b9096,4,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/f32259e1-58ef-4584-b909-64fb883b9096
+124,NY,New York City,Dock 72 At The Brooklyn Navy Yard,89cb4d14-4df1-4c50-a50a-7f2eb4fde562,4,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/89cb4d14-4df1-4c50-a50a-7f2eb4fde562
+125,NY,New York City,Dock 72 At The Brooklyn Navy Yard,c5d3fed2-836a-4911-b361-c37afdaa2317,6,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/c5d3fed2-836a-4911-b361-c37afdaa2317
+126,NY,New York City,Dock 72 At The Brooklyn Navy Yard,ebe15860-0016-4d4a-8f5d-8569b63a8e0b,6,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/ebe15860-0016-4d4a-8f5d-8569b63a8e0b
+127,NY,New York City,Dock 72 At The Brooklyn Navy Yard,2ec311be-b2aa-457f-b961-905213e5d7e7,7,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/2ec311be-b2aa-457f-b961-905213e5d7e7
+128,NY,New York City,Dock 72 At The Brooklyn Navy Yard,bce36398-8198-4b97-bfd3-8a8ca5cf84d6,9,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/bce36398-8198-4b97-bfd3-8a8ca5cf84d6
+129,NY,New York City,Dock 72 At The Brooklyn Navy Yard,fd073959-fa2f-4d59-8191-b1a7fc88855a,9,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/fd073959-fa2f-4d59-8191-b1a7fc88855a
+130,NY,New York City,Dock 72 At The Brooklyn Navy Yard,b43ec1ac-5f40-4fd2-9ed8-d06a49627704,18,https://www.wework.com/buildings/dock-72-at-the-brooklyn-navy-yard--new-york-city--NY/reserve/b43ec1ac-5f40-4fd2-9ed8-d06a49627704
+131,NY,New York City,450 Park Ave S,860841cf-1f7f-4c5b-81d1-fd981750c344,1,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/860841cf-1f7f-4c5b-81d1-fd981750c344
+132,NY,New York City,450 Park Ave S,49ab2b8f-84b8-4b2c-b65d-cbdca993ceae,4,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/49ab2b8f-84b8-4b2c-b65d-cbdca993ceae
+133,NY,New York City,450 Park Ave S,6fae0781-e7e1-4163-a2c2-3ec449294ced,4,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/6fae0781-e7e1-4163-a2c2-3ec449294ced
+134,NY,New York City,450 Park Ave S,ab1c0dfb-aeeb-4bf8-9f23-ae1177b3ada8,6,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/ab1c0dfb-aeeb-4bf8-9f23-ae1177b3ada8
+135,NY,New York City,450 Park Ave S,b920b4ff-ee2a-4bdc-8d14-e4616d95e7ab,6,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/b920b4ff-ee2a-4bdc-8d14-e4616d95e7ab
+136,NY,New York City,450 Park Ave S,8133bd8e-1939-41b3-8114-2a05ef93f02c,11,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/8133bd8e-1939-41b3-8114-2a05ef93f02c
+137,NY,New York City,450 Park Ave S,ad552fa3-28b1-406f-bac6-933d4e478616,13,https://www.wework.com/buildings/450-park-ave-s--new-york-city--NY/reserve/ad552fa3-28b1-406f-bac6-933d4e478616
+138,NY,New York City,408 Broadway,ce1acb2d-f42e-4d1d-b056-008afead89e9,2,https://www.wework.com/buildings/408-broadway--new-york-city--NY/reserve/ce1acb2d-f42e-4d1d-b056-008afead89e9
+139,NY,New York City,408 Broadway,d6fd594c-42fc-4a2c-8d4f-e15def11cfa4,2,https://www.wework.com/buildings/408-broadway--new-york-city--NY/reserve/d6fd594c-42fc-4a2c-8d4f-e15def11cfa4
+140,NY,New York City,408 Broadway,158838ad-b964-4304-b79b-6594976226b9,3,https://www.wework.com/buildings/408-broadway--new-york-city--NY/reserve/158838ad-b964-4304-b79b-6594976226b9
+141,NY,New York City,750 Lexington Ave,f855eea8-31f8-418b-a384-de571fbde3d7,2,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/f855eea8-31f8-418b-a384-de571fbde3d7
+142,NY,New York City,750 Lexington Ave,c2aee9b2-be30-49ed-b614-136225e0a83b,2,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/c2aee9b2-be30-49ed-b614-136225e0a83b
+143,NY,New York City,750 Lexington Ave,f89aa08c-3809-48c1-b5d8-5634501967fd,2,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/f89aa08c-3809-48c1-b5d8-5634501967fd
+144,NY,New York City,750 Lexington Ave,fe65e4d9-a82e-42e4-b4ed-261c709e5486,1,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/fe65e4d9-a82e-42e4-b4ed-261c709e5486
+145,NY,New York City,750 Lexington Ave,701ee932-ae00-414a-a64a-2ec586a0f421,3,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/701ee932-ae00-414a-a64a-2ec586a0f421
+146,NY,New York City,750 Lexington Ave,ccd9a3df-686f-4f2b-8558-ebf1fd2961bb,4,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/ccd9a3df-686f-4f2b-8558-ebf1fd2961bb
+147,NY,New York City,750 Lexington Ave,e355616e-f8b4-4fe3-b398-df669918fbfd,3,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/e355616e-f8b4-4fe3-b398-df669918fbfd
+148,NY,New York City,750 Lexington Ave,e2a07322-8b3e-4089-a063-1adbf76bfa36,3,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/e2a07322-8b3e-4089-a063-1adbf76bfa36
+149,NY,New York City,750 Lexington Ave,f5003779-8f89-4ef3-b0d5-07a2e13ad1b5,4,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/f5003779-8f89-4ef3-b0d5-07a2e13ad1b5
+150,NY,New York City,750 Lexington Ave,3be46b17-c83f-47fc-8f58-60ba3fd161b5,4,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/3be46b17-c83f-47fc-8f58-60ba3fd161b5
+151,NY,New York City,750 Lexington Ave,d08520dc-90a1-47a8-87a8-abe4b2f4451f,5,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/d08520dc-90a1-47a8-87a8-abe4b2f4451f
+152,NY,New York City,750 Lexington Ave,8b634205-e599-47a8-b7a0-4623e737622b,5,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/8b634205-e599-47a8-b7a0-4623e737622b
+153,NY,New York City,750 Lexington Ave,6c3e3520-c65c-45db-b527-fe4857186d71,6,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/6c3e3520-c65c-45db-b527-fe4857186d71
+154,NY,New York City,750 Lexington Ave,f9632aa2-8b97-4c95-9a69-7898c2a8de57,6,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/f9632aa2-8b97-4c95-9a69-7898c2a8de57
+155,NY,New York City,750 Lexington Ave,9f285224-b79e-45be-89c4-9b9503510343,6,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/9f285224-b79e-45be-89c4-9b9503510343
+156,NY,New York City,750 Lexington Ave,f7319285-18bd-463b-8178-cc18166d99f7,8,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/f7319285-18bd-463b-8178-cc18166d99f7
+157,NY,New York City,750 Lexington Ave,b47602cc-368c-4dd9-bfc9-dd9a45184185,9,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/b47602cc-368c-4dd9-bfc9-dd9a45184185
+158,NY,New York City,750 Lexington Ave,fc790ded-079e-4c4e-b434-81b472f13eff,10,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/fc790ded-079e-4c4e-b434-81b472f13eff
+159,NY,New York City,750 Lexington Ave,cb10ce0c-f0cd-4d18-817d-56c510537b92,11,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/cb10ce0c-f0cd-4d18-817d-56c510537b92
+160,NY,New York City,750 Lexington Ave,d4ccbec5-0843-4e49-8a40-2431f1e32c79,12,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/d4ccbec5-0843-4e49-8a40-2431f1e32c79
+161,NY,New York City,750 Lexington Ave,e4e3b80f-dfec-4724-aaa7-698b231d7638,16,https://www.wework.com/buildings/750-lexington-ave--new-york-city--NY/reserve/e4e3b80f-dfec-4724-aaa7-698b231d7638
+162,NY,New York City,154 W 14th St,3a32d6a0-bc2f-471d-8c7a-fd144d93092e,3,https://www.wework.com/buildings/154-w-14th-st--new-york-city--NY/reserve/3a32d6a0-bc2f-471d-8c7a-fd144d93092e
+163,NY,New York City,154 W 14th St,0bd3d314-dcf5-4cfe-8632-f566af5c97a5,10,https://www.wework.com/buildings/154-w-14th-st--new-york-city--NY/reserve/0bd3d314-dcf5-4cfe-8632-f566af5c97a5
+164,NY,New York City,154 W 14th St,f85a1e44-113a-4383-8bd8-653342ec3451,13,https://www.wework.com/buildings/154-w-14th-st--new-york-city--NY/reserve/f85a1e44-113a-4383-8bd8-653342ec3451
+165,NY,New York City,154 W 14th St,0aed07c9-35ed-4071-b091-63c97de84f8c,13,https://www.wework.com/buildings/154-w-14th-st--new-york-city--NY/reserve/0aed07c9-35ed-4071-b091-63c97de84f8c
+166,NY,New York City,154 W 14th St,e542df76-e1dd-4ae4-9fe2-23399d7fa648,19,https://www.wework.com/buildings/154-w-14th-st--new-york-city--NY/reserve/e542df76-e1dd-4ae4-9fe2-23399d7fa648
+167,NY,New York City,115 Broadway,f90c3a0c-9cff-487b-ba4e-7f74a9bfd9cb,1,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/f90c3a0c-9cff-487b-ba4e-7f74a9bfd9cb
+168,NY,New York City,115 Broadway,a337f165-5891-48cc-a3e0-8535ef6d2987,1,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/a337f165-5891-48cc-a3e0-8535ef6d2987
+169,NY,New York City,115 Broadway,ed86c402-d53f-466b-bf8e-c3d2455b2576,2,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/ed86c402-d53f-466b-bf8e-c3d2455b2576
+170,NY,New York City,115 Broadway,e7819e09-99de-488e-9633-7e05965b47a5,1,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/e7819e09-99de-488e-9633-7e05965b47a5
+171,NY,New York City,115 Broadway,0e6be928-4c68-4425-9ea0-cb3a111f171d,2,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/0e6be928-4c68-4425-9ea0-cb3a111f171d
+172,NY,New York City,115 Broadway,bf31257c-2042-4583-a37b-7a20a76728e4,4,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/bf31257c-2042-4583-a37b-7a20a76728e4
+173,NY,New York City,115 Broadway,f793157a-13f1-416d-a4e0-842d771f3910,4,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/f793157a-13f1-416d-a4e0-842d771f3910
+174,NY,New York City,115 Broadway,75ef124e-a7b1-4c3e-898d-87fbbade26c3,4,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/75ef124e-a7b1-4c3e-898d-87fbbade26c3
+175,NY,New York City,115 Broadway,96d373d6-b7e3-400c-9422-6aaccb3431f5,6,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/96d373d6-b7e3-400c-9422-6aaccb3431f5
+176,NY,New York City,115 Broadway,b829a20d-dfe0-4d1e-9377-09c994ca8054,10,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/b829a20d-dfe0-4d1e-9377-09c994ca8054
+177,NY,New York City,115 Broadway,c72e5551-6c0f-47ea-93e2-59011477a08d,11,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/c72e5551-6c0f-47ea-93e2-59011477a08d
+178,NY,New York City,115 Broadway,ce996ce1-20e3-4adf-a6af-4f27a01c5b9e,11,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/ce996ce1-20e3-4adf-a6af-4f27a01c5b9e
+179,NY,New York City,115 Broadway,1c7eb1ba-c0c6-46e6-bf04-fe216a85b35c,12,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/1c7eb1ba-c0c6-46e6-bf04-fe216a85b35c
+180,NY,New York City,115 Broadway,fff6287f-c14f-4925-a86f-23e2d2f5c206,17,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/fff6287f-c14f-4925-a86f-23e2d2f5c206
+181,NY,New York City,115 Broadway,7d4f4a1e-0f17-4a97-9321-46fb1fb8b4cd,18,https://www.wework.com/buildings/115-broadway--new-york-city--NY/reserve/7d4f4a1e-0f17-4a97-9321-46fb1fb8b4cd
+182,NY,New York City,134 N 4th St,d0cf43a9-469f-4840-8a1b-12cd6388507b,1,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/d0cf43a9-469f-4840-8a1b-12cd6388507b
+183,NY,New York City,134 N 4th St,6758032e-cdbf-4ba6-95fc-cb9637a1e30a,1,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/6758032e-cdbf-4ba6-95fc-cb9637a1e30a
+184,NY,New York City,134 N 4th St,752fd5d2-f216-441f-bf1b-84632c652ed1,2,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/752fd5d2-f216-441f-bf1b-84632c652ed1
+185,NY,New York City,134 N 4th St,21d092d6-adb6-4e9c-b3c5-d93e15e42059,1,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/21d092d6-adb6-4e9c-b3c5-d93e15e42059
+186,NY,New York City,134 N 4th St,3c335cf9-4316-4235-b904-de8ee2a9fa4c,3,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/3c335cf9-4316-4235-b904-de8ee2a9fa4c
+187,NY,New York City,134 N 4th St,39875206-5e21-4c9f-9317-f5d5bf767a5a,4,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/39875206-5e21-4c9f-9317-f5d5bf767a5a
+188,NY,New York City,134 N 4th St,d6c2c661-9e70-4db7-8417-bd3446785325,4,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/d6c2c661-9e70-4db7-8417-bd3446785325
+189,NY,New York City,134 N 4th St,705a1837-09b7-40f0-9192-2ee64bf67e19,6,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/705a1837-09b7-40f0-9192-2ee64bf67e19
+190,NY,New York City,134 N 4th St,128d856e-cc99-435d-9725-b75ce4123792,8,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/128d856e-cc99-435d-9725-b75ce4123792
+191,NY,New York City,134 N 4th St,557600c4-2e6f-45ba-a85a-17b0f3e5d3ea,10,https://www.wework.com/buildings/134-n-4th-st--new-york-city--NY/reserve/557600c4-2e6f-45ba-a85a-17b0f3e5d3ea
+192,NY,New York City,135 E 57th St,e2f1b9aa-80c2-49ed-8edd-c101d86203e1,1,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/e2f1b9aa-80c2-49ed-8edd-c101d86203e1
+193,NY,New York City,135 E 57th St,e2850bc0-4cb6-42de-9a1d-98a1c0b61c85,2,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/e2850bc0-4cb6-42de-9a1d-98a1c0b61c85
+194,NY,New York City,135 E 57th St,fcb7a4c9-cb1c-45cf-9195-a413caa682e9,1,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/fcb7a4c9-cb1c-45cf-9195-a413caa682e9
+195,NY,New York City,135 E 57th St,f946f5e9-c691-487b-a9df-c8b5a246498c,3,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/f946f5e9-c691-487b-a9df-c8b5a246498c
+196,NY,New York City,135 E 57th St,100450e5-eba3-47b6-8803-227df633ff99,3,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/100450e5-eba3-47b6-8803-227df633ff99
+197,NY,New York City,135 E 57th St,fbefdfa5-db9f-485d-8428-1b370adf9ca2,4,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/fbefdfa5-db9f-485d-8428-1b370adf9ca2
+198,NY,New York City,135 E 57th St,6fe136f9-ba09-44cd-967c-e4470be3000a,3,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/6fe136f9-ba09-44cd-967c-e4470be3000a
+199,NY,New York City,135 E 57th St,95a9395f-3a03-4673-b3b4-1ddc921f7efc,4,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/95a9395f-3a03-4673-b3b4-1ddc921f7efc
+200,NY,New York City,135 E 57th St,d2acaea3-44dd-4aca-8a4d-32d0bd291e11,4,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/d2acaea3-44dd-4aca-8a4d-32d0bd291e11
+201,NY,New York City,135 E 57th St,c73fd69f-9d4f-4143-9a7a-f5cfa23c4cb3,4,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/c73fd69f-9d4f-4143-9a7a-f5cfa23c4cb3
+202,NY,New York City,135 E 57th St,ca25278d-eaf6-47d3-be5d-a2af4eb30074,5,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/ca25278d-eaf6-47d3-be5d-a2af4eb30074
+203,NY,New York City,135 E 57th St,e92a7a65-1523-416e-aabc-d399ad941b9c,5,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/e92a7a65-1523-416e-aabc-d399ad941b9c
+204,NY,New York City,135 E 57th St,88aa4826-6cb0-4239-a570-304459718b9b,5,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/88aa4826-6cb0-4239-a570-304459718b9b
+205,NY,New York City,135 E 57th St,9930eb4c-f7e9-471a-9c3c-37f3e3c04b62,6,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/9930eb4c-f7e9-471a-9c3c-37f3e3c04b62
+206,NY,New York City,135 E 57th St,f9fd1a2b-ad51-4538-aeec-71d90ac172c9,6,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/f9fd1a2b-ad51-4538-aeec-71d90ac172c9
+207,NY,New York City,135 E 57th St,f6a14a31-86e4-425d-8fb5-8d6e2a53a753,6,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/f6a14a31-86e4-425d-8fb5-8d6e2a53a753
+208,NY,New York City,135 E 57th St,78c578a0-d5f8-4322-884c-0b403b117ad5,7,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/78c578a0-d5f8-4322-884c-0b403b117ad5
+209,NY,New York City,135 E 57th St,764fd784-5b90-4ce0-a673-15422a2fe523,7,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/764fd784-5b90-4ce0-a673-15422a2fe523
+210,NY,New York City,135 E 57th St,89c0219a-f19b-47fa-910c-4b47f883dc44,8,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/89c0219a-f19b-47fa-910c-4b47f883dc44
+211,NY,New York City,135 E 57th St,86182a4e-f448-45c5-b7f2-9abff002050f,9,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/86182a4e-f448-45c5-b7f2-9abff002050f
+212,NY,New York City,135 E 57th St,ed91b859-ef46-42c5-bfd1-b7c6c26218a0,10,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/ed91b859-ef46-42c5-bfd1-b7c6c26218a0
+213,NY,New York City,135 E 57th St,7c7ac055-d5d3-4af4-8b50-0eb3116c4c52,12,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/7c7ac055-d5d3-4af4-8b50-0eb3116c4c52
+214,NY,New York City,135 E 57th St,5dffb063-0ce1-43a9-a707-59c5e1c41883,10,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/5dffb063-0ce1-43a9-a707-59c5e1c41883
+215,NY,New York City,135 E 57th St,e658935b-43a0-4040-8273-3f09e36f5685,12,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/e658935b-43a0-4040-8273-3f09e36f5685
+216,NY,New York City,135 E 57th St,94cdbfa4-426a-4cd7-8b81-c3baa480aa57,12,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/94cdbfa4-426a-4cd7-8b81-c3baa480aa57
+217,NY,New York City,135 E 57th St,cac1048c-b76d-4256-b5da-7c10100dc617,13,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/cac1048c-b76d-4256-b5da-7c10100dc617
+218,NY,New York City,135 E 57th St,926dee3b-f108-4b39-a554-1da08379929a,13,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/926dee3b-f108-4b39-a554-1da08379929a
+219,NY,New York City,135 E 57th St,37786acf-43bf-4a7d-bc3a-c1bfa9b6b83e,14,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/37786acf-43bf-4a7d-bc3a-c1bfa9b6b83e
+220,NY,New York City,135 E 57th St,ee7c34c0-ed87-4a5e-b8c1-45eaeba56936,15,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/ee7c34c0-ed87-4a5e-b8c1-45eaeba56936
+221,NY,New York City,135 E 57th St,9e815bd3-5b62-4262-8eee-ed8eaec6cbbd,15,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/9e815bd3-5b62-4262-8eee-ed8eaec6cbbd
+222,NY,New York City,135 E 57th St,9566a448-b66e-4796-aeda-ff26e3a53bc2,18,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/9566a448-b66e-4796-aeda-ff26e3a53bc2
+223,NY,New York City,135 E 57th St,b4d4892a-de6c-44cc-8c7e-86b556925837,16,https://www.wework.com/buildings/135-e-57th-st--new-york-city--NY/reserve/b4d4892a-de6c-44cc-8c7e-86b556925837
+224,NY,New York City,3537 36th St,ea2e026d-8b4c-492c-a687-3f359cc95b44,1,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/ea2e026d-8b4c-492c-a687-3f359cc95b44
+225,NY,New York City,3537 36th St,b885cb42-d6e5-49d5-b27c-f9dee97c94c7,2,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/b885cb42-d6e5-49d5-b27c-f9dee97c94c7
+226,NY,New York City,3537 36th St,f01ac375-c598-41bf-a6c9-13e5edc975cb,1,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/f01ac375-c598-41bf-a6c9-13e5edc975cb
+227,NY,New York City,3537 36th St,ee3d41f9-d81b-4be4-a880-28628f7115d0,3,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/ee3d41f9-d81b-4be4-a880-28628f7115d0
+228,NY,New York City,3537 36th St,6b28cc2c-aa8d-495d-aa6e-191a2c6e4ea3,3,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/6b28cc2c-aa8d-495d-aa6e-191a2c6e4ea3
+229,NY,New York City,3537 36th St,e1f0c8fa-d7b7-47c1-8e07-d528cef3ac2b,3,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/e1f0c8fa-d7b7-47c1-8e07-d528cef3ac2b
+230,NY,New York City,3537 36th St,06917136-140c-4e0e-abc8-0ed02835e2a4,5,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/06917136-140c-4e0e-abc8-0ed02835e2a4
+231,NY,New York City,3537 36th St,fb5ed742-463f-4c7d-98b0-0e701b1b1a47,6,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/fb5ed742-463f-4c7d-98b0-0e701b1b1a47
+232,NY,New York City,3537 36th St,1c4e7beb-6fc8-495d-afa1-a1a1d14f66ee,6,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/1c4e7beb-6fc8-495d-afa1-a1a1d14f66ee
+233,NY,New York City,3537 36th St,b19fa2d6-ca10-4a0b-a182-7e20b0ded820,6,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/b19fa2d6-ca10-4a0b-a182-7e20b0ded820
+234,NY,New York City,3537 36th St,0fc0d20e-95b6-4725-9ad2-c12d147c91a5,6,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/0fc0d20e-95b6-4725-9ad2-c12d147c91a5
+235,NY,New York City,3537 36th St,9d6da2e7-ded4-462d-b197-90697c8bdc7e,7,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/9d6da2e7-ded4-462d-b197-90697c8bdc7e
+236,NY,New York City,3537 36th St,be54b01c-91f5-4c4c-9afe-ecd2e56c899b,7,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/be54b01c-91f5-4c4c-9afe-ecd2e56c899b
+237,NY,New York City,3537 36th St,5ce264f7-8f0f-481d-a949-81e8e00e805c,8,https://www.wework.com/buildings/3537-36th-st--new-york-city--NY/reserve/5ce264f7-8f0f-481d-a949-81e8e00e805c
+238,NY,New York City,12 E 49th St,f965a64e-d4b5-46b1-8290-3d927f851a41,1,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/f965a64e-d4b5-46b1-8290-3d927f851a41
+239,NY,New York City,12 E 49th St,10825c08-9f15-41bd-bb03-7a3ab15defd6,2,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/10825c08-9f15-41bd-bb03-7a3ab15defd6
+240,NY,New York City,12 E 49th St,34fa5f9a-5455-4a44-8ef4-b0f8bc9a8155,1,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/34fa5f9a-5455-4a44-8ef4-b0f8bc9a8155
+241,NY,New York City,12 E 49th St,feb3965f-c39b-4af0-8baa-accccec85bb1,2,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/feb3965f-c39b-4af0-8baa-accccec85bb1
+242,NY,New York City,12 E 49th St,f08c96ea-e730-44d2-a83e-b5fd12592746,1,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/f08c96ea-e730-44d2-a83e-b5fd12592746
+243,NY,New York City,12 E 49th St,f5404c17-0cad-4983-b14d-1fbcbdf12116,4,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/f5404c17-0cad-4983-b14d-1fbcbdf12116
+244,NY,New York City,12 E 49th St,8480a476-3bff-439e-97e7-72a2b3622993,6,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/8480a476-3bff-439e-97e7-72a2b3622993
+245,NY,New York City,12 E 49th St,43c7d1d5-844e-4d28-b2d6-f0a65fa72b5d,6,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/43c7d1d5-844e-4d28-b2d6-f0a65fa72b5d
+246,NY,New York City,12 E 49th St,444f9f82-830f-4df2-9b27-82795ac6e0ee,7,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/444f9f82-830f-4df2-9b27-82795ac6e0ee
+247,NY,New York City,12 E 49th St,2d0cecb0-e56b-4658-bcba-914137472838,8,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/2d0cecb0-e56b-4658-bcba-914137472838
+248,NY,New York City,12 E 49th St,89f4d4e3-2832-4cb4-97ce-191a5c98ff79,7,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/89f4d4e3-2832-4cb4-97ce-191a5c98ff79
+249,NY,New York City,12 E 49th St,e8d28492-c741-42f6-b2f2-c1de755e6c4e,8,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/e8d28492-c741-42f6-b2f2-c1de755e6c4e
+250,NY,New York City,12 E 49th St,b09302ff-e3eb-4baf-84c0-79343c3ce493,8,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/b09302ff-e3eb-4baf-84c0-79343c3ce493
+251,NY,New York City,12 E 49th St,645ced1a-4093-466f-a030-ed488b8bcc45,10,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/645ced1a-4093-466f-a030-ed488b8bcc45
+252,NY,New York City,12 E 49th St,798aaf95-2d02-4462-bc74-dd3c8eb56be9,10,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/798aaf95-2d02-4462-bc74-dd3c8eb56be9
+253,NY,New York City,12 E 49th St,d3018cd4-45c2-4327-9ef6-a90524efada2,12,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/d3018cd4-45c2-4327-9ef6-a90524efada2
+254,NY,New York City,12 E 49th St,30dc1159-d83a-4627-9bcf-5aba76beac2c,12,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/30dc1159-d83a-4627-9bcf-5aba76beac2c
+255,NY,New York City,12 E 49th St,10d2bf36-fc54-449b-baed-8c635d33dcdc,13,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/10d2bf36-fc54-449b-baed-8c635d33dcdc
+256,NY,New York City,12 E 49th St,1b3e6418-7338-4cb3-89fb-e81be9b7c398,14,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/1b3e6418-7338-4cb3-89fb-e81be9b7c398
+257,NY,New York City,12 E 49th St,ff1952aa-bf26-42a3-ac88-004e49722be7,14,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/ff1952aa-bf26-42a3-ac88-004e49722be7
+258,NY,New York City,12 E 49th St,5778c460-2c0b-4b0c-82f4-507dc11e511b,19,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/5778c460-2c0b-4b0c-82f4-507dc11e511b
+259,NY,New York City,12 E 49th St,087b677e-7a35-4bf2-9bbf-d7b57a2cb76b,19,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/087b677e-7a35-4bf2-9bbf-d7b57a2cb76b
+260,NY,New York City,12 E 49th St,69f6f925-090d-4fe9-8c06-d1fe5bc8d8f8,20,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/69f6f925-090d-4fe9-8c06-d1fe5bc8d8f8
+261,NY,New York City,12 E 49th St,e7d8ab16-2545-4825-8e04-c58c11651211,20,https://www.wework.com/buildings/12-e-49th-st--new-york-city--NY/reserve/e7d8ab16-2545-4825-8e04-c58c11651211
+262,NY,New York City,11 Park Pl,8a8ea185-155e-43e3-95f7-a58718f783ae,2,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/8a8ea185-155e-43e3-95f7-a58718f783ae
+263,NY,New York City,11 Park Pl,f6a9915a-8898-4c7a-b333-8d8ac76c3e74,2,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/f6a9915a-8898-4c7a-b333-8d8ac76c3e74
+264,NY,New York City,11 Park Pl,fda9a574-9b10-47b4-8bf4-91410bbfdc8b,3,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/fda9a574-9b10-47b4-8bf4-91410bbfdc8b
+265,NY,New York City,11 Park Pl,204515df-fe62-421d-91ad-f2912a7fe824,4,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/204515df-fe62-421d-91ad-f2912a7fe824
+266,NY,New York City,11 Park Pl,0947d89f-7abc-4418-91ab-978d652792e6,3,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/0947d89f-7abc-4418-91ab-978d652792e6
+267,NY,New York City,11 Park Pl,d82675e5-cc9c-43b2-a84b-88e3beb873ad,4,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/d82675e5-cc9c-43b2-a84b-88e3beb873ad
+268,NY,New York City,11 Park Pl,18c14080-acb6-4973-8625-48d7d07a4f21,5,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/18c14080-acb6-4973-8625-48d7d07a4f21
+269,NY,New York City,11 Park Pl,a854277a-dc7f-497e-a020-90735b5eff33,6,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/a854277a-dc7f-497e-a020-90735b5eff33
+270,NY,New York City,11 Park Pl,90a568aa-7fd9-4385-8501-59f636f77747,6,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/90a568aa-7fd9-4385-8501-59f636f77747
+271,NY,New York City,11 Park Pl,7ef8c1c2-6ec8-4c06-ba4e-08fc6d5d23af,8,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/7ef8c1c2-6ec8-4c06-ba4e-08fc6d5d23af
+272,NY,New York City,11 Park Pl,06babf31-4e28-48fe-b170-cc594f03f8bb,14,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/06babf31-4e28-48fe-b170-cc594f03f8bb
+273,NY,New York City,11 Park Pl,02e0d010-37e1-4224-9cc3-815e99d338f7,14,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/02e0d010-37e1-4224-9cc3-815e99d338f7
+274,NY,New York City,11 Park Pl,521e2667-f70f-4857-bccc-3e211d2209c4,19,https://www.wework.com/buildings/11-park-pl--new-york-city--NY/reserve/521e2667-f70f-4857-bccc-3e211d2209c4
+275,NY,New York City,311 W 43rd St,f21cfaee-dcd6-4e0e-9382-a3899cdc6b79,1,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/f21cfaee-dcd6-4e0e-9382-a3899cdc6b79
+276,NY,New York City,311 W 43rd St,fc70b9c0-d7d1-4be9-8971-6301c4fa70bf,2,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/fc70b9c0-d7d1-4be9-8971-6301c4fa70bf
+277,NY,New York City,311 W 43rd St,f1e377e8-fd78-4647-86ec-ab8318653a9f,1,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/f1e377e8-fd78-4647-86ec-ab8318653a9f
+278,NY,New York City,311 W 43rd St,f9050a01-35af-4352-a65d-2a76674f9092,3,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/f9050a01-35af-4352-a65d-2a76674f9092
+279,NY,New York City,311 W 43rd St,9cbf89ae-a771-41e5-b3a5-5d732d7d6e37,3,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/9cbf89ae-a771-41e5-b3a5-5d732d7d6e37
+280,NY,New York City,311 W 43rd St,ffd1f985-7437-4af5-8f96-81e950a08d1c,3,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/ffd1f985-7437-4af5-8f96-81e950a08d1c
+281,NY,New York City,311 W 43rd St,e22b5c82-d298-4106-9b61-fa06ee83bb73,4,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/e22b5c82-d298-4106-9b61-fa06ee83bb73
+282,NY,New York City,311 W 43rd St,e43915db-478d-4be6-a5dc-a513b4b40f9b,4,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/e43915db-478d-4be6-a5dc-a513b4b40f9b
+283,NY,New York City,311 W 43rd St,d459db3e-20d2-44e2-b4a4-d36873633b44,4,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/d459db3e-20d2-44e2-b4a4-d36873633b44
+284,NY,New York City,311 W 43rd St,cbb80ea7-dcb7-43da-96e3-355ec776e878,5,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/cbb80ea7-dcb7-43da-96e3-355ec776e878
+285,NY,New York City,311 W 43rd St,f278f21d-7509-4106-a198-b0515c401801,6,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/f278f21d-7509-4106-a198-b0515c401801
+286,NY,New York City,311 W 43rd St,4f4cc2cc-59b9-4538-9d56-43f9c0ff3681,7,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/4f4cc2cc-59b9-4538-9d56-43f9c0ff3681
+287,NY,New York City,311 W 43rd St,2ed54be7-6b80-4329-9a4c-d265f2bcd083,11,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/2ed54be7-6b80-4329-9a4c-d265f2bcd083
+288,NY,New York City,311 W 43rd St,1f76f442-c32d-4eba-92d6-978070feb969,15,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/1f76f442-c32d-4eba-92d6-978070feb969
+289,NY,New York City,311 W 43rd St,04932e24-21b2-4947-8a2b-d6bc0e1c0342,19,https://www.wework.com/buildings/311-w-43rd-st--new-york-city--NY/reserve/04932e24-21b2-4947-8a2b-d6bc0e1c0342
+290,NY,New York City,125 W 25th St,c8bfb5ba-dbf1-4cfe-b37c-db56d44db837,5,https://www.wework.com/buildings/125-w-25th-st--new-york-city--NY/reserve/c8bfb5ba-dbf1-4cfe-b37c-db56d44db837
+291,NY,New York City,142 W 57th St,dd1845f3-842c-4746-bb3d-ad50292124bc,2,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/dd1845f3-842c-4746-bb3d-ad50292124bc
+292,NY,New York City,142 W 57th St,b26aa03b-f8c6-4f4d-a1e7-1cbcdc52fe91,1,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/b26aa03b-f8c6-4f4d-a1e7-1cbcdc52fe91
+293,NY,New York City,142 W 57th St,f77bbfb8-723d-4bf8-830d-d855cfb2d312,3,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/f77bbfb8-723d-4bf8-830d-d855cfb2d312
+294,NY,New York City,142 W 57th St,32ded8b8-fcfa-4b10-b837-e8ad15142e26,4,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/32ded8b8-fcfa-4b10-b837-e8ad15142e26
+295,NY,New York City,142 W 57th St,e431a0ee-f5e5-4f87-85f9-58afddb5690c,4,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/e431a0ee-f5e5-4f87-85f9-58afddb5690c
+296,NY,New York City,142 W 57th St,7a29df8b-65f7-4c78-8562-6b0a5b0d1ac2,5,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/7a29df8b-65f7-4c78-8562-6b0a5b0d1ac2
+297,NY,New York City,142 W 57th St,f7f03d6f-cab3-48f9-b9d4-02f5be4bad60,6,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/f7f03d6f-cab3-48f9-b9d4-02f5be4bad60
+298,NY,New York City,142 W 57th St,d896f4bc-0fd8-43de-b771-af2faba0f63c,5,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/d896f4bc-0fd8-43de-b771-af2faba0f63c
+299,NY,New York City,142 W 57th St,ee5a4db3-f536-44cb-abeb-42afc0234386,6,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/ee5a4db3-f536-44cb-abeb-42afc0234386
+300,NY,New York City,142 W 57th St,34d21b84-a2de-4489-a0ed-3b5864be09f6,6,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/34d21b84-a2de-4489-a0ed-3b5864be09f6
+301,NY,New York City,142 W 57th St,0e985eec-1aa4-45dc-9ab0-259200d269eb,7,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/0e985eec-1aa4-45dc-9ab0-259200d269eb
+302,NY,New York City,142 W 57th St,0bfbce26-62d5-4a2e-a1dd-e829736eba5f,7,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/0bfbce26-62d5-4a2e-a1dd-e829736eba5f
+303,NY,New York City,142 W 57th St,8420f24f-e376-4c0f-be89-c8d881e00dbc,11,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/8420f24f-e376-4c0f-be89-c8d881e00dbc
+304,NY,New York City,142 W 57th St,4211b635-8e95-490b-9bcc-9443bc294329,11,https://www.wework.com/buildings/142-w-57th-st--new-york-city--NY/reserve/4211b635-8e95-490b-9bcc-9443bc294329
+305,NY,New York City,33 Irving Pl,965b5c7b-2a3f-4a68-9e24-794a13758a4c,2,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/965b5c7b-2a3f-4a68-9e24-794a13758a4c
+306,NY,New York City,33 Irving Pl,6af67ffc-033c-46f3-9dea-ca02ea3ae714,2,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/6af67ffc-033c-46f3-9dea-ca02ea3ae714
+307,NY,New York City,33 Irving Pl,ebf27e67-f4c3-470c-a961-0421900c4e7e,1,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/ebf27e67-f4c3-470c-a961-0421900c4e7e
+308,NY,New York City,33 Irving Pl,9eb0f829-bf4a-48e3-830e-627f0c04d27b,3,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/9eb0f829-bf4a-48e3-830e-627f0c04d27b
+309,NY,New York City,33 Irving Pl,f8d09843-0398-455c-8cfc-83b763bd09ef,3,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/f8d09843-0398-455c-8cfc-83b763bd09ef
+310,NY,New York City,33 Irving Pl,49bc9f9f-c73a-4aae-bc4d-e0e08da949ac,4,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/49bc9f9f-c73a-4aae-bc4d-e0e08da949ac
+311,NY,New York City,33 Irving Pl,ff0948c7-b10f-43e6-8b4f-5a742d80a923,4,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/ff0948c7-b10f-43e6-8b4f-5a742d80a923
+312,NY,New York City,33 Irving Pl,404a1b67-acd3-43b8-90dd-da23c2b1ac92,6,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/404a1b67-acd3-43b8-90dd-da23c2b1ac92
+313,NY,New York City,33 Irving Pl,eb2eeed8-7d0f-4ce9-8880-f3adfc60f1aa,5,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/eb2eeed8-7d0f-4ce9-8880-f3adfc60f1aa
+314,NY,New York City,33 Irving Pl,ad6c9b17-d238-45d4-85a9-7b3f23fbb2be,5,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/ad6c9b17-d238-45d4-85a9-7b3f23fbb2be
+315,NY,New York City,33 Irving Pl,f7081780-8a77-430f-97c9-0173b2a2228b,7,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/f7081780-8a77-430f-97c9-0173b2a2228b
+316,NY,New York City,33 Irving Pl,ab2a1084-4398-4d85-a399-94c8655871fe,6,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/ab2a1084-4398-4d85-a399-94c8655871fe
+317,NY,New York City,33 Irving Pl,f211d9c3-3251-41d7-8eba-963e1eec25b9,6,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/f211d9c3-3251-41d7-8eba-963e1eec25b9
+318,NY,New York City,33 Irving Pl,ed9033ae-d62a-4186-b3a2-8dd81551f0d6,7,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/ed9033ae-d62a-4186-b3a2-8dd81551f0d6
+319,NY,New York City,33 Irving Pl,2d79c97c-9486-42b8-b5be-2681dcb7dd0c,8,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/2d79c97c-9486-42b8-b5be-2681dcb7dd0c
+320,NY,New York City,33 Irving Pl,a82164e2-0c80-4513-bf42-47f4c722ede6,8,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/a82164e2-0c80-4513-bf42-47f4c722ede6
+321,NY,New York City,33 Irving Pl,fdcc9be1-105e-47a8-8f45-664eaec0d360,12,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/fdcc9be1-105e-47a8-8f45-664eaec0d360
+322,NY,New York City,33 Irving Pl,223feb2b-7b33-4bc7-8a6e-09ab34bfa381,13,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/223feb2b-7b33-4bc7-8a6e-09ab34bfa381
+323,NY,New York City,33 Irving Pl,105cb708-1c6f-4bd5-b53f-ab33cf0b87bf,14,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/105cb708-1c6f-4bd5-b53f-ab33cf0b87bf
+324,NY,New York City,33 Irving Pl,42f7a154-761e-4988-8c31-e279bbff2622,15,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/42f7a154-761e-4988-8c31-e279bbff2622
+325,NY,New York City,33 Irving Pl,21fdc534-b1d8-4167-a79d-e742bcb5154b,15,https://www.wework.com/buildings/33-irving-pl--new-york-city--NY/reserve/21fdc534-b1d8-4167-a79d-e742bcb5154b
+326,NY,New York City,379 W Broadway,4c669c80-ef68-0131-2d4e-0e714ba81e58,1,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/4c669c80-ef68-0131-2d4e-0e714ba81e58
+327,NY,New York City,379 W Broadway,4c15f750-ef68-0131-2d4e-0e714ba81e58,2,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/4c15f750-ef68-0131-2d4e-0e714ba81e58
+328,NY,New York City,379 W Broadway,e564d81d-868c-4ca7-9be9-6cf611644ea7,1,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/e564d81d-868c-4ca7-9be9-6cf611644ea7
+329,NY,New York City,379 W Broadway,ace9ffb0-b699-0131-1498-7667878657bb,2,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/ace9ffb0-b699-0131-1498-7667878657bb
+330,NY,New York City,379 W Broadway,4a0e4ef0-ef68-0131-2d4e-0e714ba81e58,3,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/4a0e4ef0-ef68-0131-2d4e-0e714ba81e58
+331,NY,New York City,379 W Broadway,4cbf3ca0-ef68-0131-2d4e-0e714ba81e58,3,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/4cbf3ca0-ef68-0131-2d4e-0e714ba81e58
+332,NY,New York City,379 W Broadway,a22c741d-f36b-4348-a196-0e43e4c2c166,4,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/a22c741d-f36b-4348-a196-0e43e4c2c166
+333,NY,New York City,379 W Broadway,488e8bb0-ef68-0131-2d4e-0e714ba81e58,4,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/488e8bb0-ef68-0131-2d4e-0e714ba81e58
+334,NY,New York City,379 W Broadway,ab5d59e0-b699-0131-1498-7667878657bb,5,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/ab5d59e0-b699-0131-1498-7667878657bb
+335,NY,New York City,379 W Broadway,aa1e0d20-b699-0131-1498-7667878657bb,5,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/aa1e0d20-b699-0131-1498-7667878657bb
+336,NY,New York City,379 W Broadway,4e053be0-ef68-0131-2d4e-0e714ba81e58,5,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/4e053be0-ef68-0131-2d4e-0e714ba81e58
+337,NY,New York City,379 W Broadway,4a3b5080-ef68-0131-2d4e-0e714ba81e58,6,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/4a3b5080-ef68-0131-2d4e-0e714ba81e58
+338,NY,New York City,379 W Broadway,49ced300-ef68-0131-2d4e-0e714ba81e58,6,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/49ced300-ef68-0131-2d4e-0e714ba81e58
+339,NY,New York City,379 W Broadway,6689af92-84ae-4641-b281-cc6a7b9afb3c,8,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/6689af92-84ae-4641-b281-cc6a7b9afb3c
+340,NY,New York City,379 W Broadway,a9d48220-b699-0131-1498-7667878657bb,8,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/a9d48220-b699-0131-1498-7667878657bb
+341,NY,New York City,379 W Broadway,a9fbd020-b699-0131-1498-7667878657bb,9,https://www.wework.com/buildings/379-w-broadway--new-york-city--NY/reserve/a9fbd020-b699-0131-1498-7667878657bb
+342,NY,New York City,195 Montague St,e41d925f-32a5-4a7d-b6c6-a266d5bcf353,1,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/e41d925f-32a5-4a7d-b6c6-a266d5bcf353
+343,NY,New York City,195 Montague St,cd9e1378-0622-4e1b-9cc6-9674c9be6ddd,1,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/cd9e1378-0622-4e1b-9cc6-9674c9be6ddd
+344,NY,New York City,195 Montague St,a1e7b60e-802c-4447-9cf0-59a68a96646e,2,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/a1e7b60e-802c-4447-9cf0-59a68a96646e
+345,NY,New York City,195 Montague St,ea386960-5e29-469a-acb3-410cf52524db,1,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/ea386960-5e29-469a-acb3-410cf52524db
+346,NY,New York City,195 Montague St,a179c775-e148-43b7-82ee-b1ff22ef6f13,2,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/a179c775-e148-43b7-82ee-b1ff22ef6f13
+347,NY,New York City,195 Montague St,52d86e4b-4451-4afa-a25c-a83e9d7dc873,2,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/52d86e4b-4451-4afa-a25c-a83e9d7dc873
+348,NY,New York City,195 Montague St,f5a772c5-ac6f-42ea-b083-af681cc79964,3,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/f5a772c5-ac6f-42ea-b083-af681cc79964
+349,NY,New York City,195 Montague St,3626d2ec-9664-4f86-8da3-bd8715626b44,3,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/3626d2ec-9664-4f86-8da3-bd8715626b44
+350,NY,New York City,195 Montague St,ce5ef27f-ae11-4af6-8ddd-db3fa2adb4a5,3,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/ce5ef27f-ae11-4af6-8ddd-db3fa2adb4a5
+351,NY,New York City,195 Montague St,65b17154-bb0b-4663-826c-6b64eb1a6c16,4,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/65b17154-bb0b-4663-826c-6b64eb1a6c16
+352,NY,New York City,195 Montague St,fb17c0de-8a0a-4d0f-839a-76d65dc6be9e,4,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/fb17c0de-8a0a-4d0f-839a-76d65dc6be9e
+353,NY,New York City,195 Montague St,32ad5870-5fb9-4328-bf15-396e56db7391,4,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/32ad5870-5fb9-4328-bf15-396e56db7391
+354,NY,New York City,195 Montague St,e9a17c76-5b72-4b75-be95-2a4a3fc70bf0,4,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/e9a17c76-5b72-4b75-be95-2a4a3fc70bf0
+355,NY,New York City,195 Montague St,c1243870-a263-4bc2-b1dc-8753f5834b3c,5,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/c1243870-a263-4bc2-b1dc-8753f5834b3c
+356,NY,New York City,195 Montague St,eb2a267b-1bb5-4dfc-8ee9-89cc986695a2,6,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/eb2a267b-1bb5-4dfc-8ee9-89cc986695a2
+357,NY,New York City,195 Montague St,f4d3f20f-390e-4e60-8d99-1a38bf980c28,7,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/f4d3f20f-390e-4e60-8d99-1a38bf980c28
+358,NY,New York City,195 Montague St,0a8b5e04-507a-4aea-84ab-d34f398e3c2f,9,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/0a8b5e04-507a-4aea-84ab-d34f398e3c2f
+359,NY,New York City,195 Montague St,b362d7b7-045c-44fa-abc5-451c62e68095,10,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/b362d7b7-045c-44fa-abc5-451c62e68095
+360,NY,New York City,195 Montague St,692634eb-0651-4774-87f0-4a8a7bd5da84,10,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/692634eb-0651-4774-87f0-4a8a7bd5da84
+361,NY,New York City,195 Montague St,fbe2af36-dfda-476c-b863-b5ae26a4360e,10,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/fbe2af36-dfda-476c-b863-b5ae26a4360e
+362,NY,New York City,195 Montague St,54be2e9f-7a62-4610-a841-c52cbb11a1d8,13,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/54be2e9f-7a62-4610-a841-c52cbb11a1d8
+363,NY,New York City,195 Montague St,f76a9d8a-32fc-4007-90f0-75be96c375e2,14,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/f76a9d8a-32fc-4007-90f0-75be96c375e2
+364,NY,New York City,195 Montague St,51c138d3-0868-4c57-8e48-2531ec928042,16,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/51c138d3-0868-4c57-8e48-2531ec928042
+365,NY,New York City,195 Montague St,e844f3c7-9a45-4201-bc62-c74e5d8bb8d0,16,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/e844f3c7-9a45-4201-bc62-c74e5d8bb8d0
+366,NY,New York City,195 Montague St,fc5e8754-a816-4169-b274-c90d66e0a148,19,https://www.wework.com/buildings/195-montague-st--new-york-city--NY/reserve/fc5e8754-a816-4169-b274-c90d66e0a148
+367,NY,New York City,110 Wall St,c3c6a256-bcf9-4d89-8f3a-646b8fe6705c,1,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/c3c6a256-bcf9-4d89-8f3a-646b8fe6705c
+368,NY,New York City,110 Wall St,e40704fe-423c-4beb-8c9a-72898de031cb,2,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/e40704fe-423c-4beb-8c9a-72898de031cb
+369,NY,New York City,110 Wall St,d81c4ade-016a-4003-90a9-955326c7bf70,2,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/d81c4ade-016a-4003-90a9-955326c7bf70
+370,NY,New York City,110 Wall St,bb6d21c2-1d86-4171-ba7a-2febbada0549,1,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/bb6d21c2-1d86-4171-ba7a-2febbada0549
+371,NY,New York City,110 Wall St,ee967778-14f6-41d7-b3b2-9ff7fc3c7769,2,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/ee967778-14f6-41d7-b3b2-9ff7fc3c7769
+372,NY,New York City,110 Wall St,f2030c45-bb08-4788-b750-0a84dec80f10,3,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/f2030c45-bb08-4788-b750-0a84dec80f10
+373,NY,New York City,110 Wall St,feac0f5b-b7f0-40a6-8814-966163f9651e,4,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/feac0f5b-b7f0-40a6-8814-966163f9651e
+374,NY,New York City,110 Wall St,31dbe82e-0129-4afe-aab0-070762be0636,3,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/31dbe82e-0129-4afe-aab0-070762be0636
+375,NY,New York City,110 Wall St,fccda108-9685-4c78-bccf-bcfc86923ef6,3,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/fccda108-9685-4c78-bccf-bcfc86923ef6
+376,NY,New York City,110 Wall St,ed866ca8-865d-48c7-91df-426984b84728,4,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/ed866ca8-865d-48c7-91df-426984b84728
+377,NY,New York City,110 Wall St,da553ed5-881d-4276-8a9f-a2f8e16270f0,4,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/da553ed5-881d-4276-8a9f-a2f8e16270f0
+378,NY,New York City,110 Wall St,d4c7e1de-b1e1-42a7-9533-b7d129bd62bb,5,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/d4c7e1de-b1e1-42a7-9533-b7d129bd62bb
+379,NY,New York City,110 Wall St,a355d25c-edab-47dc-beaf-96771e6ed4d1,5,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/a355d25c-edab-47dc-beaf-96771e6ed4d1
+380,NY,New York City,110 Wall St,ffe2bc4f-d03a-43dc-9436-775f7e83de92,5,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/ffe2bc4f-d03a-43dc-9436-775f7e83de92
+381,NY,New York City,110 Wall St,54e6676d-496b-43fe-9365-2b1e9c7a445b,5,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/54e6676d-496b-43fe-9365-2b1e9c7a445b
+382,NY,New York City,110 Wall St,4495fb7e-f6ed-4fa3-b2db-f0b61b62e829,6,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/4495fb7e-f6ed-4fa3-b2db-f0b61b62e829
+383,NY,New York City,110 Wall St,df403c3d-34bf-4ad8-887e-eb45b9bb8af1,6,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/df403c3d-34bf-4ad8-887e-eb45b9bb8af1
+384,NY,New York City,110 Wall St,abaef731-af1b-41d4-aef7-827b3ec1b799,6,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/abaef731-af1b-41d4-aef7-827b3ec1b799
+385,NY,New York City,110 Wall St,feac628d-4bf4-442c-865b-68f28ff7854f,6,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/feac628d-4bf4-442c-865b-68f28ff7854f
+386,NY,New York City,110 Wall St,68bc07a3-94e3-4f6b-938d-d1ae50e4821c,7,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/68bc07a3-94e3-4f6b-938d-d1ae50e4821c
+387,NY,New York City,110 Wall St,55b5f70e-25c3-4a75-a01e-f381442e069c,8,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/55b5f70e-25c3-4a75-a01e-f381442e069c
+388,NY,New York City,110 Wall St,ab9b688b-1651-455b-940f-ec7a78d00c2e,9,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/ab9b688b-1651-455b-940f-ec7a78d00c2e
+389,NY,New York City,110 Wall St,f6730db0-aa7d-4cb3-8ff4-3a27d9583aa9,8,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/f6730db0-aa7d-4cb3-8ff4-3a27d9583aa9
+390,NY,New York City,110 Wall St,caf96c70-498d-4137-8d12-ce69b07e5005,11,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/caf96c70-498d-4137-8d12-ce69b07e5005
+391,NY,New York City,110 Wall St,5b288c0f-f0f5-43e2-a3a1-4488e9a66e74,13,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/5b288c0f-f0f5-43e2-a3a1-4488e9a66e74
+392,NY,New York City,110 Wall St,ce7e3511-1c2b-4936-b9a7-254db4c4460b,14,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/ce7e3511-1c2b-4936-b9a7-254db4c4460b
+393,NY,New York City,110 Wall St,a883783a-1fb9-41b5-b711-cb2db5b05169,19,https://www.wework.com/buildings/110-wall-st--new-york-city--NY/reserve/a883783a-1fb9-41b5-b711-cb2db5b05169
+394,NY,New York City,1460 Broadway,9eaf7e80-2965-4c90-9414-0114c88f0cb8,1,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/9eaf7e80-2965-4c90-9414-0114c88f0cb8
+395,NY,New York City,1460 Broadway,fb0b95c5-a8c7-47a0-aa1b-de411dcc33fa,2,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/fb0b95c5-a8c7-47a0-aa1b-de411dcc33fa
+396,NY,New York City,1460 Broadway,6c797dfc-d0bd-4001-b912-0cded88c00f4,2,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/6c797dfc-d0bd-4001-b912-0cded88c00f4
+397,NY,New York City,1460 Broadway,fc3d311f-9ac2-4759-bd6f-f89efef0cd95,1,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/fc3d311f-9ac2-4759-bd6f-f89efef0cd95
+398,NY,New York City,1460 Broadway,5a8662f0-7633-4786-8021-4f9b5d83ca29,2,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/5a8662f0-7633-4786-8021-4f9b5d83ca29
+399,NY,New York City,1460 Broadway,e61dc712-8e71-4239-ac74-a22b9070d67a,3,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/e61dc712-8e71-4239-ac74-a22b9070d67a
+400,NY,New York City,1460 Broadway,ffdf4412-3333-489c-bd73-c6b7c78c234a,3,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/ffdf4412-3333-489c-bd73-c6b7c78c234a
+401,NY,New York City,1460 Broadway,f7951767-7a53-47b1-ad6f-651bceeeae23,4,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/f7951767-7a53-47b1-ad6f-651bceeeae23
+402,NY,New York City,1460 Broadway,b194fb5f-9dbf-4571-83ef-417d79d9690a,4,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/b194fb5f-9dbf-4571-83ef-417d79d9690a
+403,NY,New York City,1460 Broadway,cad48e26-36f1-46e6-b9d0-5b785c7cb954,4,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/cad48e26-36f1-46e6-b9d0-5b785c7cb954
+404,NY,New York City,1460 Broadway,c3685c1f-ddee-448b-a77f-400b89d891dc,5,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/c3685c1f-ddee-448b-a77f-400b89d891dc
+405,NY,New York City,1460 Broadway,fff4dd35-afa8-4291-b2f1-ac41e4c1b1d5,6,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/fff4dd35-afa8-4291-b2f1-ac41e4c1b1d5
+406,NY,New York City,1460 Broadway,e52cf3ea-70bd-42b2-b639-a89b1681ad69,6,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/e52cf3ea-70bd-42b2-b639-a89b1681ad69
+407,NY,New York City,1460 Broadway,f56a2d47-cdd1-4c4a-b59b-fb0e060adf01,8,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/f56a2d47-cdd1-4c4a-b59b-fb0e060adf01
+408,NY,New York City,1460 Broadway,d03a0b6e-3912-4f07-9539-06ad57d09ffe,6,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/d03a0b6e-3912-4f07-9539-06ad57d09ffe
+409,NY,New York City,1460 Broadway,b1292a2a-9c75-4660-a5a3-07535e3635aa,7,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/b1292a2a-9c75-4660-a5a3-07535e3635aa
+410,NY,New York City,1460 Broadway,27e2be8a-5449-4dc1-8f0a-c646077d70a4,7,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/27e2be8a-5449-4dc1-8f0a-c646077d70a4
+411,NY,New York City,1460 Broadway,fa27fb26-ed5c-44aa-aa15-c1f7c4bc3dca,8,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/fa27fb26-ed5c-44aa-aa15-c1f7c4bc3dca
+412,NY,New York City,1460 Broadway,f8d669a8-2dc2-471d-8c64-ffcb25670e4a,8,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/f8d669a8-2dc2-471d-8c64-ffcb25670e4a
+413,NY,New York City,1460 Broadway,71c1b74c-f137-4977-b6c2-d1b800407190,8,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/71c1b74c-f137-4977-b6c2-d1b800407190
+414,NY,New York City,205 Hudson St,f5d187b8-91d2-4ff7-b203-3d9cd028678f,1,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/f5d187b8-91d2-4ff7-b203-3d9cd028678f
+415,NY,New York City,205 Hudson St,fd11e8bf-7e1c-4698-8799-c31322c8220f,2,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/fd11e8bf-7e1c-4698-8799-c31322c8220f
+416,NY,New York City,205 Hudson St,d0649447-9d48-4c67-8543-ccda39bb979a,3,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/d0649447-9d48-4c67-8543-ccda39bb979a
+417,NY,New York City,205 Hudson St,d34b5dc6-8509-4ab1-9ab1-16b3ecf76db2,3,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/d34b5dc6-8509-4ab1-9ab1-16b3ecf76db2
+418,NY,New York City,205 Hudson St,79d5df30-3a8e-45c7-80d1-6569404711d1,4,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/79d5df30-3a8e-45c7-80d1-6569404711d1
+419,NY,New York City,205 Hudson St,b81b4888-18de-4556-8d9a-c120fc70d512,4,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/b81b4888-18de-4556-8d9a-c120fc70d512
+420,NY,New York City,205 Hudson St,e196ecfb-9470-49ef-b551-cbd2c3500683,5,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/e196ecfb-9470-49ef-b551-cbd2c3500683
+421,NY,New York City,205 Hudson St,e2f557e7-19bf-4639-906d-ada4f2a3da6f,6,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/e2f557e7-19bf-4639-906d-ada4f2a3da6f
+422,NY,New York City,205 Hudson St,e5a1f0aa-0136-4d00-87eb-c72f96fc164d,10,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/e5a1f0aa-0136-4d00-87eb-c72f96fc164d
+423,NY,New York City,205 Hudson St,c6d73728-ffa9-4f87-b9ba-445499b92ebf,12,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/c6d73728-ffa9-4f87-b9ba-445499b92ebf
+424,NY,New York City,205 Hudson St,8347d9ff-6d8d-4c6f-b7b5-dc7923fb92bc,13,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/8347d9ff-6d8d-4c6f-b7b5-dc7923fb92bc
+425,NY,New York City,205 Hudson St,fa26aeb0-9dfb-466d-9297-9b384c0aa100,17,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/fa26aeb0-9dfb-466d-9297-9b384c0aa100
+426,NY,New York City,205 Hudson St,f6e3c61e-8082-407d-aa5a-b78bf9568671,20,https://www.wework.com/buildings/205-hudson-st--new-york-city--NY/reserve/f6e3c61e-8082-407d-aa5a-b78bf9568671
+427,NY,New York City,27 E 28th St,bd25b620-9d97-0132-7e22-76d03a403714,1,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/bd25b620-9d97-0132-7e22-76d03a403714
+428,NY,New York City,27 E 28th St,7fbb1080-ccaa-0131-a6fe-46fd278c9448,1,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7fbb1080-ccaa-0131-a6fe-46fd278c9448
+429,NY,New York City,27 E 28th St,84f95650-b7b5-0131-5eb0-3e16850480d1,1,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/84f95650-b7b5-0131-5eb0-3e16850480d1
+430,NY,New York City,27 E 28th St,7efa8c10-b7b5-0131-5eb0-3e16850480d1,2,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7efa8c10-b7b5-0131-5eb0-3e16850480d1
+431,NY,New York City,27 E 28th St,fb0d0c5a-51d5-44e4-a08e-a17172e40ba9,2,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/fb0d0c5a-51d5-44e4-a08e-a17172e40ba9
+432,NY,New York City,27 E 28th St,7e6e6360-ccaa-0131-a6fe-46fd278c9448,3,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7e6e6360-ccaa-0131-a6fe-46fd278c9448
+433,NY,New York City,27 E 28th St,80a6ef00-ccaa-0131-a6fe-46fd278c9448,3,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/80a6ef00-ccaa-0131-a6fe-46fd278c9448
+434,NY,New York City,27 E 28th St,7e9d3570-ccaa-0131-a6fe-46fd278c9448,3,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7e9d3570-ccaa-0131-a6fe-46fd278c9448
+435,NY,New York City,27 E 28th St,cff536c0-264f-0132-4afb-6613a9124ef7,3,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/cff536c0-264f-0132-4afb-6613a9124ef7
+436,NY,New York City,27 E 28th St,8143d5e0-ccaa-0131-a6fe-46fd278c9448,4,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/8143d5e0-ccaa-0131-a6fe-46fd278c9448
+437,NY,New York City,27 E 28th St,ad4235be-6868-4b63-9887-9e96d4af6b2b,4,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/ad4235be-6868-4b63-9887-9e96d4af6b2b
+438,NY,New York City,27 E 28th St,7e5f1730-ccaa-0131-a6fe-46fd278c9448,5,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7e5f1730-ccaa-0131-a6fe-46fd278c9448
+439,NY,New York City,27 E 28th St,80fbea50-ccaa-0131-a6fe-46fd278c9448,6,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/80fbea50-ccaa-0131-a6fe-46fd278c9448
+440,NY,New York City,27 E 28th St,95a0408b-78dd-4a0e-ab68-275d8ea410d7,5,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/95a0408b-78dd-4a0e-ab68-275d8ea410d7
+441,NY,New York City,27 E 28th St,7cc5a260-b7b5-0131-5eb0-3e16850480d1,5,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7cc5a260-b7b5-0131-5eb0-3e16850480d1
+442,NY,New York City,27 E 28th St,7d44de00-b7b5-0131-5eb0-3e16850480d1,6,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7d44de00-b7b5-0131-5eb0-3e16850480d1
+443,NY,New York City,27 E 28th St,cf9795e0-264f-0132-4afb-6613a9124ef7,6,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/cf9795e0-264f-0132-4afb-6613a9124ef7
+444,NY,New York City,27 E 28th St,837a3785-b2fe-45cc-9058-2401d01c4940,6,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/837a3785-b2fe-45cc-9058-2401d01c4940
+445,NY,New York City,27 E 28th St,6025a582-cb4a-4093-bbe4-1088cfaea061,7,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/6025a582-cb4a-4093-bbe4-1088cfaea061
+446,NY,New York City,27 E 28th St,9addc967-8faa-4bd2-a42d-1f08f91cb621,7,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/9addc967-8faa-4bd2-a42d-1f08f91cb621
+447,NY,New York City,27 E 28th St,7e924a30-b7b5-0131-5eb0-3e16850480d1,8,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7e924a30-b7b5-0131-5eb0-3e16850480d1
+448,NY,New York City,27 E 28th St,7ebb1a10-b7b5-0131-5eb0-3e16850480d1,8,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7ebb1a10-b7b5-0131-5eb0-3e16850480d1
+449,NY,New York City,27 E 28th St,7f43af20-b7b5-0131-5eb0-3e16850480d1,8,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7f43af20-b7b5-0131-5eb0-3e16850480d1
+450,NY,New York City,27 E 28th St,62a50dab-8e7a-4df7-8b80-38a36d2ef46c,8,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/62a50dab-8e7a-4df7-8b80-38a36d2ef46c
+451,NY,New York City,27 E 28th St,7fa41690-ccaa-0131-a6fe-46fd278c9448,9,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7fa41690-ccaa-0131-a6fe-46fd278c9448
+452,NY,New York City,27 E 28th St,7dbc4fe0-b7b5-0131-5eb0-3e16850480d1,9,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7dbc4fe0-b7b5-0131-5eb0-3e16850480d1
+453,NY,New York City,27 E 28th St,52ab4079-cb47-4a36-9435-83a2c3656a12,10,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/52ab4079-cb47-4a36-9435-83a2c3656a12
+454,NY,New York City,27 E 28th St,8b05bf96-ca85-4792-8b9c-dde5faa78d02,10,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/8b05bf96-ca85-4792-8b9c-dde5faa78d02
+455,NY,New York City,27 E 28th St,7d8fdb80-b7b5-0131-5eb0-3e16850480d1,11,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/7d8fdb80-b7b5-0131-5eb0-3e16850480d1
+456,NY,New York City,27 E 28th St,a65961fb-5be8-4e00-8458-a43853722b26,15,https://www.wework.com/buildings/27-e-28th-st--new-york-city--NY/reserve/a65961fb-5be8-4e00-8458-a43853722b26
+457,NY,New York City,222 Broadway,ede476a0-61ec-0131-538e-7a38765abf01,1,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ede476a0-61ec-0131-538e-7a38765abf01
+458,NY,New York City,222 Broadway,eb7ff630-61ec-0131-538e-7a38765abf01,1,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/eb7ff630-61ec-0131-538e-7a38765abf01
+459,NY,New York City,222 Broadway,3b6aa9d0-d5f3-0130-70d2-167ad34945ce,2,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/3b6aa9d0-d5f3-0130-70d2-167ad34945ce
+460,NY,New York City,222 Broadway,ecb17c90-61ec-0131-538e-7a38765abf01,2,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ecb17c90-61ec-0131-538e-7a38765abf01
+461,NY,New York City,222 Broadway,e28d7815-5f76-4468-a12d-8c453f0ce200,1,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/e28d7815-5f76-4468-a12d-8c453f0ce200
+462,NY,New York City,222 Broadway,ecce0550-61ec-0131-538e-7a38765abf01,2,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ecce0550-61ec-0131-538e-7a38765abf01
+463,NY,New York City,222 Broadway,ec78b530-61ec-0131-538e-7a38765abf01,2,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ec78b530-61ec-0131-538e-7a38765abf01
+464,NY,New York City,222 Broadway,5b447410-d6ab-0130-e6de-1a32e193724e,3,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/5b447410-d6ab-0130-e6de-1a32e193724e
+465,NY,New York City,222 Broadway,ee2dd450-61ec-0131-538e-7a38765abf01,3,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ee2dd450-61ec-0131-538e-7a38765abf01
+466,NY,New York City,222 Broadway,5ad702e0-d6ab-0130-e6de-1a32e193724e,4,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/5ad702e0-d6ab-0130-e6de-1a32e193724e
+467,NY,New York City,222 Broadway,ee018d00-61ec-0131-538e-7a38765abf01,4,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ee018d00-61ec-0131-538e-7a38765abf01
+468,NY,New York City,222 Broadway,edcef370-61ec-0131-538e-7a38765abf01,4,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/edcef370-61ec-0131-538e-7a38765abf01
+469,NY,New York City,222 Broadway,ec391230-61ec-0131-538e-7a38765abf01,4,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ec391230-61ec-0131-538e-7a38765abf01
+470,NY,New York City,222 Broadway,eddf4ec0-61ec-0131-538e-7a38765abf01,5,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/eddf4ec0-61ec-0131-538e-7a38765abf01
+471,NY,New York City,222 Broadway,3ab1fc60-d5f3-0130-70d2-167ad34945ce,5,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/3ab1fc60-d5f3-0130-70d2-167ad34945ce
+472,NY,New York City,222 Broadway,eb9aca40-61ec-0131-538e-7a38765abf01,6,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/eb9aca40-61ec-0131-538e-7a38765abf01
+473,NY,New York City,222 Broadway,1d0add19-2603-4d07-af36-46d81d91cf4b,6,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/1d0add19-2603-4d07-af36-46d81d91cf4b
+474,NY,New York City,222 Broadway,ecc3fda0-61ec-0131-538e-7a38765abf01,6,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ecc3fda0-61ec-0131-538e-7a38765abf01
+475,NY,New York City,222 Broadway,3abafd80-d5f3-0130-70d2-167ad34945ce,6,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/3abafd80-d5f3-0130-70d2-167ad34945ce
+476,NY,New York City,222 Broadway,f2c95d10-ad86-0131-b385-3235c8d41e84,7,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/f2c95d10-ad86-0131-b385-3235c8d41e84
+477,NY,New York City,222 Broadway,ec04de40-61ec-0131-538e-7a38765abf01,8,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/ec04de40-61ec-0131-538e-7a38765abf01
+478,NY,New York City,222 Broadway,edfce720-61ec-0131-538e-7a38765abf01,9,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/edfce720-61ec-0131-538e-7a38765abf01
+479,NY,New York City,222 Broadway,bc1f1b84-f340-42e1-9b00-9b74016c508d,8,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/bc1f1b84-f340-42e1-9b00-9b74016c508d
+480,NY,New York City,222 Broadway,3b3f11e0-d5f3-0130-70d2-167ad34945ce,12,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/3b3f11e0-d5f3-0130-70d2-167ad34945ce
+481,NY,New York City,222 Broadway,edc459c0-61ec-0131-538e-7a38765abf01,11,https://www.wework.com/buildings/222-broadway--new-york-city--NY/reserve/edc459c0-61ec-0131-538e-7a38765abf01
+482,NY,New York City,85 Broad St,ed0f1560-8eda-0132-b2d5-26e41158f75a,1,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ed0f1560-8eda-0132-b2d5-26e41158f75a
+483,NY,New York City,85 Broad St,ed15a490-8eda-0132-b2d5-26e41158f75a,2,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ed15a490-8eda-0132-b2d5-26e41158f75a
+484,NY,New York City,85 Broad St,e61e0460-8eda-0132-b2d5-26e41158f75a,2,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e61e0460-8eda-0132-b2d5-26e41158f75a
+485,NY,New York City,85 Broad St,ffe7f248-3d67-41ef-878f-21d112f2d8e0,1,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ffe7f248-3d67-41ef-878f-21d112f2d8e0
+486,NY,New York City,85 Broad St,e690b0b0-8eda-0132-b2d5-26e41158f75a,3,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e690b0b0-8eda-0132-b2d5-26e41158f75a
+487,NY,New York City,85 Broad St,ec03b160-8eda-0132-b2d5-26e41158f75a,3,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ec03b160-8eda-0132-b2d5-26e41158f75a
+488,NY,New York City,85 Broad St,ece713e0-8eda-0132-b2d5-26e41158f75a,3,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ece713e0-8eda-0132-b2d5-26e41158f75a
+489,NY,New York City,85 Broad St,fa629312-02dd-49fb-b55c-d24f0fc885cc,4,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/fa629312-02dd-49fb-b55c-d24f0fc885cc
+490,NY,New York City,85 Broad St,e86dbd20-8eda-0132-b2d5-26e41158f75a,4,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e86dbd20-8eda-0132-b2d5-26e41158f75a
+491,NY,New York City,85 Broad St,e8749650-8eda-0132-b2d5-26e41158f75a,4,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e8749650-8eda-0132-b2d5-26e41158f75a
+492,NY,New York City,85 Broad St,e597c610-8eda-0132-b2d5-26e41158f75a,5,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e597c610-8eda-0132-b2d5-26e41158f75a
+493,NY,New York City,85 Broad St,ed305190-8eda-0132-b2d5-26e41158f75a,6,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ed305190-8eda-0132-b2d5-26e41158f75a
+494,NY,New York City,85 Broad St,50be91c7-9757-4cf3-8886-ed3f321fdef2,8,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/50be91c7-9757-4cf3-8886-ed3f321fdef2
+495,NY,New York City,85 Broad St,ebfd5f20-8eda-0132-b2d5-26e41158f75a,8,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ebfd5f20-8eda-0132-b2d5-26e41158f75a
+496,NY,New York City,85 Broad St,e181e352-55a4-4261-81aa-a47bc1b07e1b,12,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e181e352-55a4-4261-81aa-a47bc1b07e1b
+497,NY,New York City,85 Broad St,e49f4870-8eda-0132-b2d5-26e41158f75a,13,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e49f4870-8eda-0132-b2d5-26e41158f75a
+498,NY,New York City,85 Broad St,e6be8410-8eda-0132-b2d5-26e41158f75a,15,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/e6be8410-8eda-0132-b2d5-26e41158f75a
+499,NY,New York City,85 Broad St,ed535b00-8eda-0132-b2d5-26e41158f75a,17,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/ed535b00-8eda-0132-b2d5-26e41158f75a
+500,NY,New York City,85 Broad St,dce912fe-af96-448d-9f77-685f0490c25b,20,https://www.wework.com/buildings/85-broad-st--new-york-city--NY/reserve/dce912fe-af96-448d-9f77-685f0490c25b
+501,NY,New York City,Dumbo Heights 77 Sands,a906a8e3-1f5c-4bae-815c-3ef9d2831e29,1,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/a906a8e3-1f5c-4bae-815c-3ef9d2831e29
+502,NY,New York City,Dumbo Heights 77 Sands,710896b4-c9f0-41f5-af15-602672ee4a19,2,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/710896b4-c9f0-41f5-af15-602672ee4a19
+503,NY,New York City,Dumbo Heights 77 Sands,eb198734-11a8-4d76-8731-04b23d9e0058,2,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/eb198734-11a8-4d76-8731-04b23d9e0058
+504,NY,New York City,Dumbo Heights 77 Sands,f96d025f-2579-4e58-9a54-c957aab0bce0,1,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/f96d025f-2579-4e58-9a54-c957aab0bce0
+505,NY,New York City,Dumbo Heights 77 Sands,6aadc74b-ed05-45de-a0b0-e9cd6652434b,2,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/6aadc74b-ed05-45de-a0b0-e9cd6652434b
+506,NY,New York City,Dumbo Heights 77 Sands,be2e5adf-a35f-471b-8f0f-ccfbdcebc47a,3,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/be2e5adf-a35f-471b-8f0f-ccfbdcebc47a
+507,NY,New York City,Dumbo Heights 77 Sands,a1854898-beaa-4de6-92d3-315a6f05a20b,3,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/a1854898-beaa-4de6-92d3-315a6f05a20b
+508,NY,New York City,Dumbo Heights 77 Sands,a92c0474-3267-41a4-bef4-0d6e47eb5c69,3,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/a92c0474-3267-41a4-bef4-0d6e47eb5c69
+509,NY,New York City,Dumbo Heights 77 Sands,f1a1245f-619f-40e2-9bff-3a117708214f,4,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/f1a1245f-619f-40e2-9bff-3a117708214f
+510,NY,New York City,Dumbo Heights 77 Sands,126f155e-bdeb-4425-8289-0e599090917f,4,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/126f155e-bdeb-4425-8289-0e599090917f
+511,NY,New York City,Dumbo Heights 77 Sands,817c0b9d-78ec-4a43-b5d0-806baaa71c45,5,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/817c0b9d-78ec-4a43-b5d0-806baaa71c45
+512,NY,New York City,Dumbo Heights 77 Sands,037948fc-84d3-4b07-bff3-0d64399ed8dd,6,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/037948fc-84d3-4b07-bff3-0d64399ed8dd
+513,NY,New York City,Dumbo Heights 77 Sands,8385fab7-dcab-4599-a965-4e9b4487bb1e,5,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/8385fab7-dcab-4599-a965-4e9b4487bb1e
+514,NY,New York City,Dumbo Heights 77 Sands,201eb9ab-7a82-4187-b6a2-f80ae5f03823,6,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/201eb9ab-7a82-4187-b6a2-f80ae5f03823
+515,NY,New York City,Dumbo Heights 77 Sands,456e7fb7-54e6-4285-9337-78151c77f02f,6,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/456e7fb7-54e6-4285-9337-78151c77f02f
+516,NY,New York City,Dumbo Heights 77 Sands,1f5082ba-cd4a-4360-b628-2a4e151490af,7,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/1f5082ba-cd4a-4360-b628-2a4e151490af
+517,NY,New York City,Dumbo Heights 77 Sands,94b217df-bdde-4cb2-8fdb-40483808d0d5,7,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/94b217df-bdde-4cb2-8fdb-40483808d0d5
+518,NY,New York City,Dumbo Heights 77 Sands,af3deb51-063e-42aa-87c2-498f0c5a63ad,8,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/af3deb51-063e-42aa-87c2-498f0c5a63ad
+519,NY,New York City,Dumbo Heights 77 Sands,d8434e72-4a0e-4f98-9b94-610f43172ee4,8,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/d8434e72-4a0e-4f98-9b94-610f43172ee4
+520,NY,New York City,Dumbo Heights 77 Sands,60a64691-b3d9-4701-9d2c-ea9f75d022fe,9,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/60a64691-b3d9-4701-9d2c-ea9f75d022fe
+521,NY,New York City,Dumbo Heights 77 Sands,f91c6158-022f-4d4d-adbc-cc309a7da134,8,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/f91c6158-022f-4d4d-adbc-cc309a7da134
+522,NY,New York City,Dumbo Heights 77 Sands,191d1a57-ffa7-4a40-ace9-37132d2b463b,9,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/191d1a57-ffa7-4a40-ace9-37132d2b463b
+523,NY,New York City,Dumbo Heights 77 Sands,a8c1cfdc-ef40-4932-8f54-7ef550688678,10,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/a8c1cfdc-ef40-4932-8f54-7ef550688678
+524,NY,New York City,Dumbo Heights 77 Sands,a64c403b-cc00-4beb-a22d-0cda0e56a736,10,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/a64c403b-cc00-4beb-a22d-0cda0e56a736
+525,NY,New York City,Dumbo Heights 77 Sands,e663668a-e8d1-49e9-9c07-8b34355e8deb,16,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/e663668a-e8d1-49e9-9c07-8b34355e8deb
+526,NY,New York City,Dumbo Heights 77 Sands,93985130-2361-46bb-99eb-4a6418431f03,19,https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY/reserve/93985130-2361-46bb-99eb-4a6418431f03
+527,NY,New York City,500 7th Ave,d87fe3f3-bd7f-4e96-912c-b65a5bf993d4,1,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/d87fe3f3-bd7f-4e96-912c-b65a5bf993d4
+528,NY,New York City,500 7th Ave,caca2ca3-11d5-4cf2-81ab-b2ff9f0ca4e7,1,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/caca2ca3-11d5-4cf2-81ab-b2ff9f0ca4e7
+529,NY,New York City,500 7th Ave,8bdbf30a-bb97-4792-bfca-bfda55728bdb,2,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/8bdbf30a-bb97-4792-bfca-bfda55728bdb
+530,NY,New York City,500 7th Ave,cdd67692-b613-492a-9136-503271f972d2,2,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/cdd67692-b613-492a-9136-503271f972d2
+531,NY,New York City,500 7th Ave,e22ce4af-8618-4703-9ba4-1e3a9d51ae18,2,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/e22ce4af-8618-4703-9ba4-1e3a9d51ae18
+532,NY,New York City,500 7th Ave,ffb786ab-388b-437c-b82b-db17d3d8d911,2,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/ffb786ab-388b-437c-b82b-db17d3d8d911
+533,NY,New York City,500 7th Ave,e00efef8-c01c-40e3-8b2f-4e6d2c39d78a,3,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/e00efef8-c01c-40e3-8b2f-4e6d2c39d78a
+534,NY,New York City,500 7th Ave,dbcde70c-5ef0-4328-967f-88d29bc0804a,3,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/dbcde70c-5ef0-4328-967f-88d29bc0804a
+535,NY,New York City,500 7th Ave,b507214a-c49f-45c5-a7ff-dd48129037a0,3,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/b507214a-c49f-45c5-a7ff-dd48129037a0
+536,NY,New York City,500 7th Ave,ea008d63-3797-487a-a442-5f11b7742288,4,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/ea008d63-3797-487a-a442-5f11b7742288
+537,NY,New York City,500 7th Ave,da1237b0-e48d-4c31-a3f7-9444a91f1d75,4,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/da1237b0-e48d-4c31-a3f7-9444a91f1d75
+538,NY,New York City,500 7th Ave,f852b58c-11b4-4376-9915-a95cdf4f0e87,4,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/f852b58c-11b4-4376-9915-a95cdf4f0e87
+539,NY,New York City,500 7th Ave,c988ad4d-7435-4bbb-999c-216e54f23fd7,5,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/c988ad4d-7435-4bbb-999c-216e54f23fd7
+540,NY,New York City,500 7th Ave,d1950cda-e6fa-4770-a9f4-0aa22ea26a57,5,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/d1950cda-e6fa-4770-a9f4-0aa22ea26a57
+541,NY,New York City,500 7th Ave,e962f354-7c6d-4152-95b0-dd0e12850847,6,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/e962f354-7c6d-4152-95b0-dd0e12850847
+542,NY,New York City,500 7th Ave,177989e2-58c4-45e8-baee-11ab806d02a3,6,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/177989e2-58c4-45e8-baee-11ab806d02a3
+543,NY,New York City,500 7th Ave,86c00c7d-4992-4ffc-9cd7-61feea43ab36,8,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/86c00c7d-4992-4ffc-9cd7-61feea43ab36
+544,NY,New York City,500 7th Ave,8eb31a45-dd61-45eb-80a7-01f80d44fd51,11,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/8eb31a45-dd61-45eb-80a7-01f80d44fd51
+545,NY,New York City,500 7th Ave,a202d7b1-c9f1-4d54-91db-9467b1e52085,16,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/a202d7b1-c9f1-4d54-91db-9467b1e52085
+546,NY,New York City,500 7th Ave,55a8096f-b7f6-45ea-a12f-414a80e6cfd6,17,https://www.wework.com/buildings/500-7th-ave--new-york-city--NY/reserve/55a8096f-b7f6-45ea-a12f-414a80e6cfd6
+547,NY,New York City,54 W 40th St,cbead590-3815-0131-2b19-16f92f28d1f6,2,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cbead590-3815-0131-2b19-16f92f28d1f6
+548,NY,New York City,54 W 40th St,ccc0d460-3815-0131-2b19-16f92f28d1f6,2,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/ccc0d460-3815-0131-2b19-16f92f28d1f6
+549,NY,New York City,54 W 40th St,f5544f20-6f72-0131-ced6-220b9f489c6a,1,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/f5544f20-6f72-0131-ced6-220b9f489c6a
+550,NY,New York City,54 W 40th St,cce62640-3815-0131-2b19-16f92f28d1f6,3,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cce62640-3815-0131-2b19-16f92f28d1f6
+551,NY,New York City,54 W 40th St,cd7442c0-3815-0131-2b19-16f92f28d1f6,4,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cd7442c0-3815-0131-2b19-16f92f28d1f6
+552,NY,New York City,54 W 40th St,cd387f20-3815-0131-2b19-16f92f28d1f6,4,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cd387f20-3815-0131-2b19-16f92f28d1f6
+553,NY,New York City,54 W 40th St,cd2f6670-3815-0131-2b19-16f92f28d1f6,5,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cd2f6670-3815-0131-2b19-16f92f28d1f6
+554,NY,New York City,54 W 40th St,cbd45360-3815-0131-2b19-16f92f28d1f6,6,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cbd45360-3815-0131-2b19-16f92f28d1f6
+555,NY,New York City,54 W 40th St,cc8787e0-3815-0131-2b19-16f92f28d1f6,5,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cc8787e0-3815-0131-2b19-16f92f28d1f6
+556,NY,New York City,54 W 40th St,fb22cf83-7d09-415e-a871-28a949ef2cfe,6,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/fb22cf83-7d09-415e-a871-28a949ef2cfe
+557,NY,New York City,54 W 40th St,ccf9da10-3815-0131-2b19-16f92f28d1f6,6,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/ccf9da10-3815-0131-2b19-16f92f28d1f6
+558,NY,New York City,54 W 40th St,cd4b8fa0-3815-0131-2b19-16f92f28d1f6,7,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cd4b8fa0-3815-0131-2b19-16f92f28d1f6
+559,NY,New York City,54 W 40th St,cd1ba900-3815-0131-2b19-16f92f28d1f6,16,https://www.wework.com/buildings/54-w-40th-st--new-york-city--NY/reserve/cd1ba900-3815-0131-2b19-16f92f28d1f6
+560,NY,New York City,524 Broadway,cdf71a0d-7f38-4932-acd3-196d2c577f85,2,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/cdf71a0d-7f38-4932-acd3-196d2c577f85
+561,NY,New York City,524 Broadway,c8192f45-ced3-433d-b6c9-3b0dfb67a84c,2,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/c8192f45-ced3-433d-b6c9-3b0dfb67a84c
+562,NY,New York City,524 Broadway,e6ab1de9-c056-4916-90b7-91197b68ab19,1,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/e6ab1de9-c056-4916-90b7-91197b68ab19
+563,NY,New York City,524 Broadway,57a03df2-fd8e-45e1-9afc-6fa608358663,4,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/57a03df2-fd8e-45e1-9afc-6fa608358663
+564,NY,New York City,524 Broadway,3c095c0a-e956-4350-82e9-3b4c7aa20a62,4,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/3c095c0a-e956-4350-82e9-3b4c7aa20a62
+565,NY,New York City,524 Broadway,ca37618a-4afe-4fdc-8e18-17cb5605ee56,5,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/ca37618a-4afe-4fdc-8e18-17cb5605ee56
+566,NY,New York City,524 Broadway,d3e397e8-3c2c-4c75-90ae-5e5c5fdf0a28,7,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/d3e397e8-3c2c-4c75-90ae-5e5c5fdf0a28
+567,NY,New York City,524 Broadway,e008178a-1889-4b3c-9a09-11b42faa0a65,12,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/e008178a-1889-4b3c-9a09-11b42faa0a65
+568,NY,New York City,524 Broadway,a007c9de-6105-4450-ba47-0db41f3ce714,13,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/a007c9de-6105-4450-ba47-0db41f3ce714
+569,NY,New York City,524 Broadway,821ade43-506a-49cc-bbf0-b47c6505fcdc,13,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/821ade43-506a-49cc-bbf0-b47c6505fcdc
+570,NY,New York City,524 Broadway,97609f7a-5454-4e88-b3fa-14ad5d362475,15,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/97609f7a-5454-4e88-b3fa-14ad5d362475
+571,NY,New York City,524 Broadway,d0610a60-bfd4-4939-bddb-c6013bc3a7f5,16,https://www.wework.com/buildings/524-broadway--new-york-city--NY/reserve/d0610a60-bfd4-4939-bddb-c6013bc3a7f5
+572,NY,New York City,135 Madison Ave,aff26cf0-a02c-4c73-b8bc-4f3ddba15fce,2,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/aff26cf0-a02c-4c73-b8bc-4f3ddba15fce
+573,NY,New York City,135 Madison Ave,c428e33b-dff9-4e16-b1ba-0eee8af9f7d9,2,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/c428e33b-dff9-4e16-b1ba-0eee8af9f7d9
+574,NY,New York City,135 Madison Ave,ffe76959-0c2b-40dc-91b4-e39998ee9cf0,3,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/ffe76959-0c2b-40dc-91b4-e39998ee9cf0
+575,NY,New York City,135 Madison Ave,f323aa91-3a58-4610-a498-c0ef349c724e,4,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/f323aa91-3a58-4610-a498-c0ef349c724e
+576,NY,New York City,135 Madison Ave,2f7c11dd-0153-48dc-a184-118ae2be8759,3,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/2f7c11dd-0153-48dc-a184-118ae2be8759
+577,NY,New York City,135 Madison Ave,78f26e6f-06f4-434c-8a1f-8f87373912c0,5,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/78f26e6f-06f4-434c-8a1f-8f87373912c0
+578,NY,New York City,135 Madison Ave,daad1eb7-13c4-4db1-bc91-ebf714d6567a,7,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/daad1eb7-13c4-4db1-bc91-ebf714d6567a
+579,NY,New York City,135 Madison Ave,70bd3a8b-380f-47df-abf2-1fa7052c42d4,7,https://www.wework.com/buildings/135-madison-ave--new-york-city--NY/reserve/70bd3a8b-380f-47df-abf2-1fa7052c42d4
+580,NY,New York City,18 West 18th Street,37cc76db-c30b-4204-81e6-7b8e1af0964d,2,https://www.wework.com/buildings/18-west-18th-street--new-york-city--NY/reserve/37cc76db-c30b-4204-81e6-7b8e1af0964d
+581,NY,New York City,18 West 18th Street,73d83f6a-5786-4907-9e51-59e0255bb279,3,https://www.wework.com/buildings/18-west-18th-street--new-york-city--NY/reserve/73d83f6a-5786-4907-9e51-59e0255bb279
+582,NY,New York City,18 West 18th Street,a3eaf3e5-7ae7-4379-8726-0f8a750b5043,3,https://www.wework.com/buildings/18-west-18th-street--new-york-city--NY/reserve/a3eaf3e5-7ae7-4379-8726-0f8a750b5043
+583,NY,New York City,18 West 18th Street,509ee75b-c26e-4896-a48c-7fb724c4ee8f,4,https://www.wework.com/buildings/18-west-18th-street--new-york-city--NY/reserve/509ee75b-c26e-4896-a48c-7fb724c4ee8f
+584,NY,New York City,18 West 18th Street,a440ab12-8abb-4866-b4fd-418806d80698,6,https://www.wework.com/buildings/18-west-18th-street--new-york-city--NY/reserve/a440ab12-8abb-4866-b4fd-418806d80698
+585,NY,New York City,18 West 18th Street,485c67e7-a134-433c-8fa2-21778ac5894e,8,https://www.wework.com/buildings/18-west-18th-street--new-york-city--NY/reserve/485c67e7-a134-433c-8fa2-21778ac5894e
+586,NY,New York City,1460 Broadway,f3ca4d22-8d27-4ecb-bbcf-7e6f907a3d73,9,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/f3ca4d22-8d27-4ecb-bbcf-7e6f907a3d73
+587,NY,New York City,1460 Broadway,6853ba27-e599-4080-807d-96adac8d96fa,9,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/6853ba27-e599-4080-807d-96adac8d96fa
+588,NY,New York City,1460 Broadway,8a9c04c5-002a-4785-a0f3-9ccc5df2a6f6,10,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/8a9c04c5-002a-4785-a0f3-9ccc5df2a6f6
+589,NY,New York City,1460 Broadway,3c900ab7-a5e8-482c-9fe9-95b4d7acb71b,14,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/3c900ab7-a5e8-482c-9fe9-95b4d7acb71b
+590,NY,New York City,1460 Broadway,3373fce2-0e7c-45cc-b536-debaa2cc9eb6,15,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/3373fce2-0e7c-45cc-b536-debaa2cc9eb6
+591,NY,New York City,1460 Broadway,698c1f8a-6250-4157-b285-eb05195f2fee,17,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/698c1f8a-6250-4157-b285-eb05195f2fee
+592,NY,New York City,1460 Broadway,6746f857-ec12-4a87-92cf-6401e2edc788,17,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/6746f857-ec12-4a87-92cf-6401e2edc788
+593,NY,New York City,1460 Broadway,d13a7b31-80e5-4f18-8301-3e56ed8d4e4a,18,https://www.wework.com/buildings/1460-broadway--new-york-city--NY/reserve/d13a7b31-80e5-4f18-8301-3e56ed8d4e4a
