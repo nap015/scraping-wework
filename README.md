@@ -9,5 +9,4 @@ State, City, Building Address, Inventory Code, Max Capacity (per each inventory 
 .py file contains the runnable Python script, .ipynb file for development and preview.
 
 * Required packages/libraries:
-Selenium
-bs4
+Selenium, bs4
