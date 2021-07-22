@@ -7,3 +7,7 @@ Result .csv file contains the following features in order:
 State, City, Building Address, Inventory Code, Max Capacity (per each inventory space), reservation URL
 
 .py file contains the runnable Python script, .ipynb file for development and preview.
+
+* Required packages/libraries:
+Selenium
+bs4
