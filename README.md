@@ -10,3 +10,6 @@ State, City, Building Address, Inventory Code, Max Capacity (per each inventory 
 
 * Required packages/libraries:
 Selenium, bs4
+
+Part 1 of project here: (Tableau Dashboard)
+https://public.tableau.com/app/profile/nayoung.park/viz/WeWorkKPIAnalysis/WeWorkKPIDashboard
